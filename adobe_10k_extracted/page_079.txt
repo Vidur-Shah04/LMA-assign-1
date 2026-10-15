@@ -1,0 +1,56 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 15. NET INCOME PER SHARE
+
+Basic net income per share is computed using the weighted average number of common shares outstanding for the
+period, excluding unvested stock-based awards and purchase rights. Diluted net income per share is based upon the weighted
+average common shares outstanding for the period plus dilutive potential common shares, including unvested restricted stock
+units, stock purchase rights and performance share awards using the treasury stock method. Performance share awards are
+included based on the number of shares that would be issued as if the end of the reporting period was the end of the
+performance period and the result was dilutive.
+
+The following table sets forth the computation of basic and diluted net income per share for fiscal 2025, 2024 and 2023:
+
+(in millions, except per share data) 2025 2024 2023
+
+Net income $ 7,130 $ 5,560 $ 5,428
+Shares used to compute basic net income per share 426.2 447.1 457.1
+Dilutive potential common shares from stock plans and programs 0.8 2.6 2.0
+Shares used to compute diluted net income per share 427.0 449.7 459.1
+Basic net income per share $ 16.73. $ 12.43 §$ 11.87
+Diluted net income per share $ 16.70 $ 12.36 $ 11.82
+Anti-dilutive potential common shares 5.1 1.9 2.7
+
+NOTE 16. COMMITMENTS AND CONTINGENCIES
+Unconditional Purchase Obligations
+
+Our principal commitments consist of purchase obligations resulting from agreements to purchase goods and services in
+the ordinary course of business. The following table summarizes our non-cancellable unconditional purchase obligations for
+each of the next five years and thereafter as of November 28, 2025, primarily relating to contracts with vendors for third-party
+hosting and data center services:
+
+(in millions)
+Fiscal Year Purchase Obligations
+2026 $ 2,083
+2027 1,901
+2028 1,623
+2029 1,196
+2030 12
+Thereafter 6
+Total $ 6,821
+Acquisitions
+
+On November 18, 2025, we entered into a definitive agreement to acquire Semrush Holdings, Inc., a publicly held brand
+visibility platform company, for approximately $1.9 billion of cash consideration. The transaction is subject to regulatory
+approvals and customary closing conditions and is expected to close in the first half of fiscal 2026.
+
+Royalties
+
+We have royalty commitments associated with the licensing of certain offerings and products. Royalty expense is
+generally based on a dollar amount per unit or a percentage of the underlying revenue. Royalty expense, which was recorded in
+
+79

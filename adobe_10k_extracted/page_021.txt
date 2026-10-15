@@ -1,0 +1,64 @@
+Table of Contents
+
+to regulatory and customer notification requirements, violations of service level agreement commitments or financial liabilities
+and result in customer dissatisfaction or harm our business. If we supply materially inaccurate information or experience
+significant interruptions in our systems, our reputation could be harmed, we could lose customers and we could be found liable
+for damages or incur other losses.
+
+Security incidents, improper access to or disclosure of our customers’ data or other cybersecurity incidents may harm our
+reputation and materially and adversely affect our business.
+
+Our solutions collect, store, manage and otherwise process third-party data, including our customers’ data and our own
+data. Such solutions as well as our technologies, systems and networks have been subject to, and may in the future be subject to,
+cyberattacks, computer viruses, ransomware or other malware, fraud, worms, social engineering, denial-of-service attacks,
+malicious software programs, insider threats and other cybersecurity incidents that have in the past, and may in the future, result
+in the unauthorized access, disclosure, acquisition, use, loss or destruction of sensitive personal or business data belonging to
+us, our employees and our customers. Some of our solutions include third-party open-source software, which may contain
+security vulnerabilities that may be exploited, potentially compromising our solutions. Increasing use of AI in our internal
+systems and solutions may create new attack methods.
+
+Cybersecurity incidents can be caused by human error from our workforce or that of our third-party service providers, by
+malicious third parties, acting alone or in groups, or by more sophisticated organizations, including nation-states and state-
+sponsored organizations. Such risks may be elevated in connection with geopolitical tensions, including the Russia-Ukraine war
+and the conflict in the Middle East, as well as malicious third parties utilizing emerging technologies, such as AI and machine
+learning. Certain unauthorized parties have in the past managed, and may in the future manage, to overcome our security
+measures and those of our third-party service providers to access and misuse systems and software by exploiting defects in
+design, configuration or manufacture, including bugs, vulnerabilities, change management errors and other problems that
+unexpectedly compromise the security or operation of a product or system. Further, unauthorized parties or authorized parties
+that exceed their authorized access may also gain physical access to our facilities and infiltrate our information systems or
+attempt to gain logical access to our solutions or information systems to access content and data and may result in computer
+viruses, worms, ransomware or other malware. Malicious third parties have in the past, and may in the future, fraudulently
+induce our employees or users of our solutions to disclose sensitive, personal or confidential information via illegal electronic
+spamming, phishing, social engineering or other tactics, and this risk is heightened in our current hybrid model working
+environment.
+
+Our solutions are incorporated into the supply chain of a large number of companies worldwide and, as a result, if our
+solutions experience a compromise, a large portion or, in some instances, all of our customers and their data for a given solution
+could be simultaneously affected. The potential liability and associated consequences we could suffer as a result of such a large
+scale event could be significant, and materially and adversely impact our business. Malicious actors may also engage in
+fraudulent or abusive activities through our solutions, including unauthorized use of accounts through stolen credentials, use of
+stolen credit cards or other payment vehicles, failure to pay for services accessed, or other activities that violate our terms of
+service. While we actively combat such fraudulent activities, we have experienced, and may in the future experience, impacts to
+our revenue and reputation from such activities.
+
+Maintaining the security of our solutions is a critical issue for us and our customers. We devote significant resources to
+address security vulnerabilities through various methods, including, but not limited to, engineering more secure products,
+enhancing security and reliability features in our products and systems, regularly reviewing our service providers’ security
+controls, and continually assessing and improving, as appropriate, our incident response process. However, it is impossible to
+accurately predict the extent, frequency or impact cybersecurity issues may have on us, and our security measures do not
+provide full effective protection from all such events. There can be no assurance that we have the capability to detect all
+vulnerabilities or new attack methods and our internal security controls may not keep pace with quickly evolving threats. The
+costs to prevent, eliminate, mitigate or remediate cybersecurity or other security problems and vulnerabilities are significant and
+may reduce our margins. Breaches of our security measures and the accidental loss, inadvertent disclosure or unauthorized
+dissemination of proprietary information or sensitive, personal or confidential data about us, our employees, our customers or
+their end users, including the potential loss or disclosure of such information or data have in the past, and could in the future,
+expose us, our employees, our customers or other individuals affected to a risk of loss or misuse of this information. Further,
+our efforts to address these problems, including notifying affected third parties when appropriate, have in the past been, and
+may in the future be, unsuccessful or delayed, which could result in business interruptions, cessation of service, loss of existing
+or potential customers and reputational harm. Actual or perceived security vulnerabilities or incidents have resulted in, and may
+result in additional, claims or litigation and liability or fines, costly and time-intensive notice requirements, governmental
+inquiry or oversight or a loss of customer confidence, any of which have in the past and may in the future harm our business
+and damage our brand and reputation. Our customers may also adopt security measures to protect their computer systems and
+their instances of our software from attack and may suffer a cybersecurity breach on their own systems, unrelated to our
+
+21

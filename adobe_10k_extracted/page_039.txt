@@ -1,0 +1,67 @@
+Table of Contents
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of compensation costs, amortization of contract acquisition costs,
+including sales commissions, travel expenses and related facilities costs for our sales, marketing, order management and global
+supply chain management personnel. Sales and marketing expenses also include the costs of programs aimed at increasing
+revenue, such as advertising, trade shows and events, public relations and other market development programs. Sales and
+marketing expenses increased during fiscal 2025 as compared to fiscal 2024 primarily due to increases in advertising expenses
+and, to a lesser extent, compensation costs.
+
+General and Administrative
+
+General and administrative expenses consist primarily of compensation and contracted costs, travel expenses and related
+facilities costs for our finance, facilities, human resources, legal, information services and executive personnel. General and
+administrative expenses also include outside legal and accounting fees, expenses associated with computer equipment and
+software used in the administration of the business, charitable contributions, provision for bad debts and various forms of
+insurance.
+
+General and administrative expenses increased due to the following:
+
+Components of
+
+% Change
+
+2025-2024
+Compensation costs 5%
+Software licenses 2
+Professional and consulting fees 2
+Lease-related asset impairments and other charges (7)
+Various individually insignificant items 1
+
+Total change 3 %
+
+General and administrative expenses during fiscal 2024 included costs associated with the optimization of our leased
+facilities, primarily consisting of impairment charges for certain operating lease right-of-use assets and leasehold
+improvements.
+
+Acquisition Termination Fee
+
+During fiscal 2024, we incurred a $1 billion termination fee which resulted from termination of the Figma transaction.
+
+Non-Operating Income (Expense), Net
+
+% Change
+(dollars in millions) 2025 2024 2023 2025-2024
+Interest expense $ (263) $ (169) $ (113) 56 %
+Investment gains (losses), net 43 48 16 ee
+Other income (expense), net 248 311 246 (20)%
+Total non-operating income (expense), net $ 28 $ 190 $ 149 ee
+
+C) Percentage is not meaningful.
+Interest Expense
+
+Interest expense represents interest associated with our debt instruments. Interest on our senior notes is payable semi-
+annually, in arrears. Floating interest payments on our interest rate swaps are paid quarterly. The fixed-rate interest receivable
+on the swaps 1s received semi-annually concurrent with the senior notes interest payments.
+
+Interest expense increased during fiscal 2025 as compared to fiscal 2024 primarily due to the senior notes issued in
+January 2025. See Notes 5 and 17 for further details regarding our interest rate swaps and debt, respectively.
+
+Investment Gains (Losses), Net
+
+Investment gains (losses), net consists principally of unrealized holding gains and losses associated with our deferred
+compensation plan assets.
+
+39

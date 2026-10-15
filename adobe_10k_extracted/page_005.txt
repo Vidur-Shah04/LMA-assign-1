@@ -1,0 +1,61 @@
+Table of Contents
+
+AI Strategy
+
+AI represents a generational opportunity to serve an increasingly large and diverse customer universe. Adobe’s approach
+to AI is rooted in the belief that creativity is a uniquely human trait — and that AI has the power to assist and amplify human
+ingenuity and enhance productivity. Adobe’s AI leadership builds on our expertise across core creative categories like imaging,
+design, illustration and video as well as digital documents and digital experiences. Over the past several years, we have
+incorporated AI into our solutions and delivered hundreds of AI capabilities to enable customers to create, work and collaborate
+more efficiently. To address our customers’ need for a holistic approach for their productivity, creativity and marketing needs,
+Adobe’s strategy infuses AI across our apps, embeds purpose-built agents in our applications, provides choice of models and
+harnesses our unique data assets to deliver comprehensive and easy-to-use solutions.
+
+Applications and Interfaces. Adobe’s AI platform powers the applications and interfaces that customers use every day
+across their creative, productivity and marketing workflows by bringing together innovations across agents, models and data.
+These integrations increase the value that our product portfolio delivers to customers with a unified experience across our
+solutions. We drive higher customer engagement and retention by enhancing our existing solutions and infusing AI in our core
+applications and launching AI-first applications.
+
+Agent Orchestration. We use our unique data assets to design and implement AI agents that generate insights and
+content, make recommendations and optimize engagement and customer experience outcomes across our product portfolio. We
+are building agents on the Adobe Experience Platform, informed by our deep understanding of our customers’ needs and the
+complexity of delivering content at scale, to redefine and simplify the future of customer connection by automating decision-
+making, optimizing workflows and enabling real-time orchestration of content, data and journeys. We offer AI assistants
+powered by agents that unlock creativity and allow for conversational creation and editing. Our agents and agentic solutions in
+our Acrobat offerings streamline workflows, drive efficiency, unlock productivity and accelerate time to value. Our agents and
+agentic solutions are expanding our user base across our customer groups by reducing the need for traditional onboarding and
+training to unlock the value of AI solutions.
+
+Models. In the rapidly evolving AI landscape, where each generative AI model has its own strength, we offer customers
+flexibility to use the model of their choice directly within certain Adobe solutions to best serve their needs. Adobe Models: We
+build our own creativity-focused, commercially safe Firefly foundation models for generation and editing across categories.
+Partner Models: We partner with an extensive ecosystem of third-party models across categories. Within certain applications,
+customers can choose from our Adobe Firefly models and partner models to meet their creativity, productivity and marketing
+needs. Our focus on controllability is designed to align with our customer’s creative intent, allowing for preferred input,
+customization, precise refinement, iterative control and seamless integration across our apps. Customized Models: We offer
+the ability for individuals and enterprises to train Firefly generative AI models tailored to their specific requirements with their
+own assets.
+
+Data. As AI continues to change content creation, our customers, particularly creators and enterprises, increasingly
+require responsible, secure and human-centered AI solutions. In developing our Firefly foundation models, we responsibly
+harness our unique data assets and help our customers amplify the value of their first-party data. Adobe leverages a rich dataset
+sourced from licensed content and public domain assets to train our Firefly generative AI models that are commercially safe for
+our customers. This approach respects creator rights and builds trust among enterprise customers, enabling them to confidently
+use Al-generated outputs in production workflows. We also work with our customers to help them manage, gain insights from
+and unlock the power of their first-party data and assets, and build customized models and solutions using such data and assets
+stored in our applications, systems, and through connections to other business applications.
+
+COMPETITION
+
+We participate in a highly competitive and rapidly evolving environment where our competitors include companies of
+various sizes and both public and private companies, including large, global companies and smaller companies with more
+specialized focuses, new entrants, and AI or cloud-native companies. We compete with software companies, AI companies,
+hardware manufacturers, operating system developers, and social media companies across our business. The markets for our
+solutions are characterized by rapid technological innovation, new industry standards, evolving distribution and sales models,
+limited barriers to entry, short product lifecycles, customer price sensitivity, global economic conditions and the frequent entry
+of new solutions or competitors.
+
+Our future success will depend on our ability to effectively appeal to customers and accurately predict and meet
+changing customer needs by enhancing our existing solutions and introducing new ones in a timely and cost-effective manner.
+We need to anticipate emerging standards, business models, software delivery methods, and other technological changes.

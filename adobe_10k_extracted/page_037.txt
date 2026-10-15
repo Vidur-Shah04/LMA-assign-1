@@ -1,0 +1,61 @@
+Table of Contents
+
+Digital Media and Digital Experience subscription revenue by customer group for fiscal 2025, 2024 and 2023 were as
+follows:
+
+% Change % Change
+(dollars in millions) 2025 2024 2023 2025-2024 2024-2023
+Creative & Marketing Professionals $ 16,303 $ 14,749 $ 13,425 11 % 10 %
+Business Professionals & Consumers 6,495 5,662 4,744 15% 19 %
+Total Digital Media and Digital Experience
+subscription revenue $ 22,798 $ 20,411 $ 18,169 12% 12%
+
+During fiscal 2025 and 2024 as compared to the respective prior years, increases in subscription revenue for the Creative
+& Marketing Professionals customer group were driven by strength in Creative Cloud Pro and other flagship apps, GenStudio
+solutions, and Adobe Experience Platform and related apps. During fiscal 2025 and 2024 as compared to the respective prior
+years, increases in subscription revenue for the Business Professionals & Consumers customer group were driven by strength in
+Acrobat.
+
+Geographical Information
+
+% Change
+(dollars in millions) 2025 2024 2023 2025-2024
+Americas $ 14,120 $ 12,891 $ 11,654 10 %
+Percentage of total revenue 59 % 60 % 60 %
+EMEA 6,289 5,554 4,881 13 %
+Percentage of total revenue 27 % 26 % 25 %
+APAC 3,360 3,060 2,874 10 %
+Percentage of total revenue 14 % 14% 15 %
+Total revenue $ 23,769 $ 21,505 $ 19,409 11%
+
+Overall revenue during fiscal 2025 increased in all geographic regions as compared to fiscal 2024. Within each
+geographic region, the fluctuations in revenue by reportable segment were attributable to the factors noted in the segment
+information above.
+
+Included in the overall change in revenue were impacts associated with foreign currency which were mitigated in part by
+our foreign currency hedging program. During fiscal 2025 as compared to fiscal 2024, the U.S. Dollar primarily strengthened
+against APAC currencies and weakened against EMEA currencies, which resulted in a net decrease in revenue in U.S. Dollar
+equivalents of approximately $18 million and was offset by net hedging gains of $22 million from our cash flow hedging
+program.
+
+See Note 2 of our Notes to Consolidated Financial Statements for additional details of revenue by geography.
+
+Cost of Revenue
+
+% Change
+(dollars in millions) 2025 2024 2023 2025-2024
+Subscription $ 2,027 $ 1,799 $ 1,822 13 %
+Percentage of total revenue 9% 8 % 9%
+Product 23 25 29 (8)%
+Percentage of total revenue * * *
+Services and other 501 534 503 (6)%
+Percentage of total revenue 2% 2% 3%
+Total cost of revenue $ 2,551 $ 2,358 $ 2,354 8%
+
+“Percentage is less than 1%.
+Subscription
+
+Cost of subscription revenue consists primarily of third-party hosting services and data center costs, including expenses
+related to operating our network infrastructure and AI inferencing costs. Cost of subscription revenue also includes
+
+37

@@ -1,0 +1,64 @@
+Table of Contents
+
+Our intellectual property portfolio is a valuable asset and we may not be able to protect our intellectual property rights,
+including our source code, from infringement or unauthorized copying, use or disclosure.
+
+Our patents, trademarks, trade secrets, copyrights and other intellectual property are valuable assets to us. Infringement
+or misappropriation of such intellectual property could result in lost revenues and ultimately reduce their value. We protect our
+intellectual property by relying on federal, state and common law rights in the United States and internationally, as well as a
+variety of administrative procedures and contractual restrictions. Despite our efforts, protecting our intellectual property rights
+and preventing unauthorized use of our intellectual property are inherently difficult. For instance, we actively combat software
+piracy, but we continue to lose revenue due to illegal use of our software. Third parties may illegally copy and sell counterfeit
+versions of our products. To the extent counterfeit installations and sales replace otherwise legitimate ones, our financial results
+could be adversely affected. We apply for patents and other intellectual property rights in the United States and in foreign
+countries, but we are not always successful in obtaining patent or other intellectual property protection or in obtaining such
+protection timely to meet our business needs. Our patents may be invalidated or circumvented. Moreover, due to challenges in
+detecting patent infringement pertaining to generative AI technologies, it may be more difficult to protect our generative AI and
+related innovations with patents. Additionally, if we use generative AI in the creation of our source code or other materials or
+inventions, we may not be able to rely on copyrights or patents to protect such intellectual property. Further, the laws of some
+foreign countries do not provide the same level of intellectual property protection as U.S. laws and courts and could fail to
+adequately protect our intellectual property rights. If unauthorized disclosure of our source code occurs through security breach,
+cyber-attack, contributions to open-source projects or otherwise, we could lose future trade secret protection for that source
+code. Such loss could make it easier for third parties to compete with our products by copying functionality, which could cause
+us to lose customers and could adversely affect our revenue and operating margins. If we cannot protect our intellectual
+property against unauthorized copying, use, or other misappropriation, our business could be harmed.
+
+Changes in tax rules and regulations or interpretations thereof may adversely affect our effective tax rates.
+
+We are a U.S.-based multinational company subject to tax in multiple domestic and foreign tax jurisdictions. Significant
+judgment is required in determining our current provision for income taxes and deferred tax assets or liabilities. Tax laws in the
+United States as well as other countries and jurisdictions in which we conduct business are subject to change as new laws are
+passed and/or new interpretations are made available, which have in the past and may in the future have a material impact on
+our business. These countries, governmental bodies, such as the European Commission of the European Union, and
+intergovernmental economic organizations, such as the Organization for Economic Cooperation and Development, have made
+and/or could make other unprecedented assertions about how taxation is determined and, in some cases, have proposed or
+enacted new laws that are contrary to the way in which rules and regulations have historically been interpreted and applied.
+
+Changes in our operating landscape, such as changes in laws or interpretations of tax rules, have in the past and may in
+the future adversely affect our effective tax rates and/or cause us to respond by making changes to our business structure, which
+could adversely affect our operations and financial results. Our future effective tax rates may be unfavorably affected by
+changes in the tax rates in jurisdictions where our income is earned, changes in jurisdictions in which our profits are determined
+to be earned and taxed, changes in the valuation of our deferred tax assets and liabilities, changes in or interpretation of tax
+rules and regulations in the jurisdictions in which we do business, or unexpected negative changes in business and market
+conditions that could reduce certain tax benefits. An increase in our effective tax rate would reduce our profitability.
+
+Moreover, we are subject to the examination of our income tax returns by domestic and foreign tax authorities. We
+regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for
+income taxes and have reserved for potential adjustments that may result from these examinations. While we believe our tax
+estimates are reasonable, we cannot provide assurance that the final determination of any of these examinations will not have an
+adverse effect on our financial position and results of operations.
+
+Contracting with government entities exposes us to additional risks inherent in the government procurement process.
+
+We provide solutions, directly and indirectly, to a variety of domestic and foreign government entities, which introduces
+certain risks and challenges not present in private commercial agreements, including varying governmental budgeting
+processes; changes in governmental administrations and policies; fluctuations due to government spending cuts and shutdowns;
+and highly competitive and lengthy bidding process that may be subject to political influence. Additionally, we are subject to
+complex regulatory requirements and executive orders, including those related to procurement; export controls; employment;
+security; and other evolving government-specific contractual requirements. We incur significant up-front time and costs without
+any assurance that we will win a contract. Operating within a highly regulated industry, we have been and may in the future be
+subject to audits and investigations relating to our government contracts and any violations could result in termination of
+contracts and various civil and criminal penalties and administrative sanctions, including payment of fines and suspension or
+debarment from future government business, as well as harm to our reputation and financial results. We have made, and may
+
+26

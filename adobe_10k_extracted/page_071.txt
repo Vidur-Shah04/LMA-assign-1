@@ -1,0 +1,50 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 9. ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+
+Accrued expenses and other current liabilities as of November 28, 2025 and November 29, 2024 consisted of the
+following:
+
+(in millions) 2025 2024
+Accrued compensation costs $ 1,345 §$ 1,221
+Accrued corporate marketing 197 176
+Sales and use taxes payable 150 121
+Refund liabilities 137 141
+Excise taxes payable 105 74
+Fair value of derivative liabilities 102 9
+Derivative collateral liabilities 101 168
+Other 511 426
+Accrued expenses and other current liabilities $ 2,648 §$ 2,336
+
+Other primarily includes general business accruals, accrued interest expense and royalties payable.
+NOTE 10. INCOME TAXES
+
+Income before income taxes for fiscal 2025, 2024 and 2023 consisted of the following:
+
+(in millions) 2025 2024 2023
+
+Domestic $ 6,721 §$ 4,160 $ 3,465
+
+Foreign 2,013 2,771 3,334
+Income before income taxes $ 8,734 $ 6,931 §$ 6,799
+
+The provision for income taxes for fiscal 2025, 2024 and 2023 consisted of the following:
+
+(in millions) 2025 2024 2023
+Current:
+United States federal $ 1,509 $ 1,292 $ 1,198
+Foreign 348 315 335
+State and local 261 232 260
+Total current 2,118 1,839 1,793
+Deferred:
+United States federal (499) (580) (556)
+Foreign 40 179 227
+State and local (55) (67) (93)
+Total deferred (514) (468) (422)
+Provision for income taxes $ 1,604 $ 1,371 $ 1,371
+
+71

@@ -1,0 +1,43 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 4. FAIR VALUE MEASUREMENTS
+Assets and Liabilities Measured and Recorded at Fair Value on a Recurring Basis
+
+The fair value of our financial assets and liabilities at November 28, 2025 was determined using the following inputs:
+
+(in millions) Fair Value Measurements at Reporting Date Using
+Quoted Prices Significant
+in Active Other Significant
+Markets for Observable Unobservable
+Identical Assets Inputs Inputs
+Total (Level 1) (Level 2) (Level 3)
+Assets:
+Cash equivalents:
+Corporate debt securities $ 928 §$ — §$ 928 §$ =
+Money market funds 3,607 3,607 — —
+Time deposits 85 85 = =
+U.S. Treasury securities 100 — 100 —
+Short-term investments:
+Corporate debt securities 914 — 914 —
+US. Treasury securities 250 — 250 —
+Prepaid expenses and other current assets:
+Foreign currency derivatives 62 — 62 —
+Interest rate swap derivatives 2 — 2 —
+Other assets:
+Deferred compensation plan assets 342 342 — —
+Foreign currency derivatives 22 — 22 —
+Interest rate swap derivatives 92 — 92 —
+Total assets $ 6,404 $ 4,034 §$ 2,370 $ —
+Liabilities:
+Accrued expenses and other current liabilities:
+Foreign currency derivatives $ 94 $ — §$ 94 $ =
+Interest rate swap derivatives 8 — 8 —
+Other liabilities:
+Foreign currency derivatives 6 — 6 —
+Total liabilities $ 108 $ — $ 108 $ =
+
+64

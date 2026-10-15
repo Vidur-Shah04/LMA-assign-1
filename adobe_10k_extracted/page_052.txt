@@ -1,0 +1,61 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+Operations
+
+Adobe’s mission is to empower everyone to create. We build innovative platforms and tools that unleash creativity,
+productivity and personalized customer experiences. For over four decades, our innovations have transformed how people
+everywhere engage across all types of media. Adobe’s solutions are the foundation of digital experiences, starting with the first
+creative spark, to the creation and development of all content and media, to the personalized delivery across every channel. We
+have operations in the Americas; Europe, Middle East and Africa (“EMEA”); and Asia-Pacific (“APAC’”).
+
+Basis of Presentation
+
+The accompanying Consolidated Financial Statements include those of Adobe and its subsidiaries, after elimination of
+all intercompany accounts and transactions. We have prepared the accompanying Consolidated Financial Statements in
+accordance with generally accepted accounting principles in the United States (“GAAP”) and pursuant to the rules and
+regulations of the U.S. Securities and Exchange Commission (the “SEC”’).
+
+Use of Estimates
+
+In preparing the Consolidated Financial Statements and related disclosures in conformity with GAAP and pursuant to the
+rules and regulations of the SEC, we must make estimates and judgments that affect the amounts reported in the Consolidated
+Financial Statements and accompanying Notes. Estimates are used for, but not limited to, sales allowances and programs, bad
+debts, stock-based compensation, determining the fair value of acquired assets and assumed liabilities, litigation and income
+taxes. Actual results may differ materially from these estimates.
+
+Fiscal Year
+
+Our fiscal year is a 52- or 53-week year that ends on the Friday closest to November 30. Fiscal years 2025, 2024 and
+2023 were 52-week years. Our next 53-week year will be fiscal year 2027.
+
+Reclassifications
+
+Certain prior year amounts, which are not material, have been reclassified to conform to current year presentation in the
+Consolidated Statements of Cash Flows and Notes to Consolidated Financial Statements.
+
+Significant Accounting Policies
+Revenue Recognition
+
+Our revenue is derived from the sale of cloud-enabled software subscriptions, cloud-hosted offerings, term-based,
+royalty, and perpetual software licenses, associated software maintenance and support plans, consulting services, training and
+technical support. Most of our enterprise customer arrangements involve multiple promises to our customers.
+
+Revenue is recognized when a contract exists between us and a customer and upon transfer of control of promised
+products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those
+products or services. We enter into contracts that can include various combinations of products and services, which may be
+capable of being distinct and accounted for as separate performance obligations, or as in the case of certain cloud-enabled
+software subscription offerings, accounted for as a single performance obligation. Revenue is recognized net of allowances for
+returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
+
+Subscription, Product and Services Offerings
+
+We enter into revenue arrangements in which a customer may purchase a combination of our products, services and/or
+solutions as described above. Certain revenue arrangements provide customers with unilateral cancellation rights, or options to
+either renew monthly on-premise term-based licenses or use committed funds to purchase other Adobe products or services.
+
+52

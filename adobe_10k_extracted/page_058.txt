@@ -1,0 +1,61 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Recent Accounting Pronouncements Not Yet Effective
+
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes, which prescribes standardized categories and
+disaggregation of information in the reconciliation of provision for income taxes, requires disclosure of disaggregated income
+taxes paid, and modifies other income tax-related disclosure requirements. The updated standard is effective for us beginning
+with our fiscal year 2026 annual reporting period. Early adoption is permitted. We are currently evaluating the impact that the
+updated standard will have on our financial statement disclosures.
+
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—
+Expense Disaggregation Disclosures, which requires additional disclosure of certain costs and expenses within the notes to the
+financial statements. The updated standard is effective for our annual periods beginning in fiscal 2028 and interim periods
+beginning in the first quarter of fiscal 2029. Early adoption is permitted. We are currently evaluating the impact that the updated
+standard will have on our financial statement disclosures.
+
+In September 2025, the FASB issued ASU No. 2025-06, Intangibles—Goodwill and Other—Internal-Use Software,
+which modernizes the accounting for internal-use software and clarifies capitalization criteria. The updated standard is effective
+for us beginning with our interim and annual reporting periods of fiscal 2029. Early adoption is permitted. We are currently
+evaluating the impact that the updated standard will have on our Consolidated Financial Statements.
+
+There have been no other recent accounting pronouncements or changes in accounting pronouncements during fiscal
+2025 that are of significance or potential significance to us.
+
+NOTE 2. REVENUE
+Segment Information
+
+We report segment information based on the “management” approach. The management approach designates the internal
+reporting used by management for making decisions and assessing performance as the source of our reportable segments.
+
+Our Chief Executive Officer, the company’s chief operating decision maker (“CODM7”), reviews revenue and gross
+margin information for each of our segments to assess segment performance and allocate resources. Segment revenue and gross
+margin information is primarily reviewed by comparing actual results to prior period results. Our CODM does not review
+individual significant costs within segment cost of revenue to assess performance, and also does not review operating expense
+or asset information on a segment by segment basis.
+
+During fiscal 2025, our business was organized into the following reportable segments:
+
+¢ Digital Media—Our Digital Media segment provides products and services that enable individuals, teams,
+businesses, and enterprises to create, publish and promote their content anywhere and accelerate their productivity
+by transforming how they view, share, engage with and collaborate on documents and creative content. Our
+customers span creative professionals, including graphic designers, photographers, videographers, illustrators and
+3D artists; creators, including social media influencers and solopreneurs; business professionals, including social
+media teams, small business owners and knowledge workers; and consumers.
+
+¢ Digital Experience—Our Digital Experience segment provides marketing professionals with an integrated platform
+and set of products, services and solutions that enable businesses to create, manage, execute, measure, monetize and
+optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers,
+brand managers, campaign strategists, merchandisers, merchants, data analysts, developers and executives across the
+C-suite.
+
+¢ Publishing and Advertising—Our Publishing and Advertising segment contains legacy products and services that
+address diverse market opportunities, including eLearning solutions, technical document publishing, web
+conferencing, document and forms platform, web app development, high-end printing and our Adobe Advertising
+offerings.
+
+58

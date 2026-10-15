@@ -1,0 +1,62 @@
+Table of Contents
+
+Forward-Looking Statements
+
+In addition to historical information, this Annual Report on Form 10-K contains “forward-looking statements” within
+the meaning of applicable securities laws, including statements related to our product development plans and new or enhanced
+offerings; our business, strategy, artificial intelligence (“AI”) and innovation momentum; our market and AI opportunity and
+future growth; market and AI trends; macroeconomic conditions; fluctuations in foreign currency exchange rates; strategic
+investments; customer success and groups; and industry positioning. In addition, when used in this report, the words “will,”
+“expects,” “could,”’ “would,” “may,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “targets,” “estimates,” “looks
+for,” “looks to,” “continues” and similar expressions, as well as statements regarding our focus for the future, are generally
+intended to identify forward-looking statements. Each of the forward-looking statements we make in this report involves risks,
+uncertainties and assumptions based on information available to us as of the date of this report. Such risks and uncertainties,
+many of which relate to matters beyond our control, could cause actual results to differ materially and adversely from these
+forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those
+discussed in the section titled “Risk Factors” in Part I, Item 1A of this report and elsewhere herein. The risks described herein
+and in Adobe’s other filings with the U.S. Securities and Exchange Commission (the “SEC”), including our Quarterly Reports
+on Form 10-Q to be filed in fiscal 2026, should be carefully reviewed. Undue reliance should not be placed on the forward-
+looking financial information set forth in this report, which reflects estimates based on information available as of the date of
+this report. Adobe assumes no obligation to, and does not currently intend to, update these forward-looking statements.
+
+Id 66 Id 66 Id 66
+
+“Adobe,” “Acrobat,” “Photoshop,” “Adobe Firefly,” “Adobe GenStudio” and other trademarks of ours appearing in
+this report are our property. All other trademarks are the property of their respective owners.
+
+PARTI
+ITEM 1. BUSINESS
+OVERVIEW
+
+Adobe’s mission is to empower everyone to create. We build innovative platforms and tools that unleash creativity,
+productivity and personalized customer experiences. For over four decades, our innovations have transformed how people
+everywhere engage across all types of media. Adobe’s solutions are the foundation of digital experiences, starting with the first
+creative spark, to the creation and development of all content and media, to the personalized delivery across every channel.
+
+Our focus revolves around serving our customer audiences: business professionals, consumers, creators, creative
+professionals and marketing professionals. The massive opportunity and evolving role of creativity across roles and industries
+have driven Adobe’s growth over the past four decades and are expected to continue to drive our growth going forward as we
+evolve our solutions and routes to market to anticipate the growing needs of our customers. In the artificial intelligence (“AI”)
+era, we are harnessing the power of AI across our solutions by bringing together our commercially safe first-party and leading
+partner AI models best suited for the job; deploying conversational and agentic capabilities across offerings; ensuring ubiquity
+on all surfaces; delivering trusted and secure solutions; and expanding our global presence.
+
+Adobe’s value proposition is to empower creative expression across multiple media types and channels, at scale, in a
+collaborative and secure environment, with an end-to-end integrated platform spanning ideation, creation, production and
+activation. We power the entire content workflow with Adobe’s AI platform, which offers customers brand safety, compliance,
+intellectual property protection, and reliability.
+
+STRATEGY & OPPORTUNITY
+
+Adobe’s strategy is to empower our customer audiences—business professionals, consumers, creators, creative
+professionals and marketing professionals—to be more creative, productive and successful. Underpinning our customer-focused
+solutions is our AI strategy and Adobe’s AI platform. As a technology leader that unleashes creativity, productivity and
+customer experience orchestration, we deliver end-to-end professional creative and marketing solutions. We support our
+customers to transform the way they connect with their customers and bring creativity and marketing together in new and
+powerful ways through a connected ecosystem of tools, agents and workflows. We are scaling differentiated digital and
+enterprise routes to market and automated workflows to expand our brand value and global reach.
+
+Customer Groups Strategy
+
+We drive our strategy through customer-specific product innovation and go-to-market motions focused on two customer
+groups: Business Professionals & Consumers and Creative & Marketing Professionals. We continue to focus on several key

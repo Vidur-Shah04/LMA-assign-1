@@ -1,0 +1,59 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+geography. Individual products may have multiple values for standalone selling price depending on factors such as where they
+are sold and what channel they are sold through. Where standalone selling price may not be directly observable (e.g., the
+performance obligation is not sold separately), we maximize the use of observable inputs by using information that may include
+reviewing pricing practices, performance obligations with similar customers and selling models.
+
+Capitalized costs to obtain a contract are amortized over the expected period of benefit, which we have determined,
+based on analysis, to be 5 years. We evaluated qualitative and quantitative factors to determine the period of amortization,
+including contract length, renewals, customer life and the useful lives of our products and acquired products. When the
+expected period of benefit of an asset which would be capitalized is less than one year, we expense the amount as incurred,
+utilizing the practical expedient. We regularly evaluate whether there have been changes in the underlying assumptions and data
+used to determine the amortization period.
+
+When revenue arrangements include components of third-party products and services, for example in transactions which
+involve resale, fulfillment or providing advertising impressions to our end customer, we evaluate whether we are the principal,
+and report revenues on a gross basis, or an agent, and report revenues on a net basis. In this assessment, we consider if we
+obtain control of the specified products or services before they are transferred to the customer by evaluating indicators such as
+which party is primarily responsible for fulfilling the promise to provide the products or services, which party has discretion in
+establishing price and the underlying terms and conditions between the parties to the transaction.
+
+We offer limited rights of return, rebates and price protection of our products under various policies and programs with
+our distributors, resellers and/or end-user customers. We estimate and record reserves for these programs as variable
+consideration when estimating transaction price. Returns, rebates and other offsets to transaction price are estimated at contract
+inception on a portfolio basis and assessed for reasonableness each reporting period when additional information becomes
+available.
+
+General Contract Provisions
+
+We maintain revenue reserves for rebates, rights of return and other limited price adjustments. Distributors are allowed
+limited rights of return of products purchased during the previous quarter. In addition, distributors are allowed to return
+products that have reached the end of their lives, as defined by us, and for products that are being replaced by new versions. We
+offer rebates to our distributors, resellers and/or end-user customers. Transaction price is reduced for these amounts based on
+actual performance against objectives set forth by us for a particular reporting period, such as volume and timely reporting.
+
+On a quarterly basis, the amount of revenue that is reserved is calculated based on our historical trends and data specific
+to each reporting period. The primary method of establishing these reserves is to review historical data from prior periods as a
+percent of revenue to determine a historical reserve rate. We then apply the historical rate to the current period revenue as a
+basis for estimating future returns. When necessary, we also provide a specific reserve in excess of portfolio-level estimated
+requirements. This estimate can be affected by the amount of a particular product in the channel, the rate of sell-through,
+product plans and other factors.
+
+Although our subscription contracts are generally non-cancellable, a limited number of customers have the right to
+cancel their contracts by providing prior written notice to us of their intent to cancel the remainder of the contract term and
+consumers have a period of time to terminate certain agreements without penalty. In the event a customer cancels their contract,
+they are generally not entitled to a refund for prior services we have provided to them. Contracts that include termination rights
+without substantive penalty are accounted for as contracts only for the committed period. Periods of time after the right of
+termination are accounted for as optional purchases when they do not represent material rights. For certain of our usage-based
+license agreements, typically in our royalty and OEM businesses, reporting may be received after the end of a fiscal period. In
+such instances, we estimate and accrue license revenue. We base our estimates on multiple factors, including historical sales
+information, seasonality and other business information which may impact our estimates. We do not estimate variable
+consideration for our sales and usage-based license royalty agreements, consistent with the associated exception for sales and
+usage-based royalties for the license of intellectual property under the revenue recognition standard.
+
+54

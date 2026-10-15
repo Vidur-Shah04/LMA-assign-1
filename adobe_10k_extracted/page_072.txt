@@ -1,0 +1,57 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Reconciliation of Provision for Income Taxes
+
+Total income tax expense differed from the income tax expense computed at the U.S. federal statutory rate of 21% as a
+result of the following:
+
+(in millions) 2025 2024 2023
+Tax expense computed at U.S. federal statutory rate $ 1,834 §$ 1,456 $ 1,428
+Effects of non-U.S. operations (300) (198) (116)
+Tax credits (154) (150) (130)
+Tax settlements (55) (85) (14)
+State tax expense, net of federal benefit 171 139 132
+Stock-based compensation 90 (23) 29
+Acquisition termination fee = 210 =
+Other 18 22 42
+Provision for income taxes $ 1,604 $ 1,371 §$ 1,371
+
+Deferred Tax Assets and Liabilities
+
+The tax effects of the temporary differences that gave rise to significant portions of the deferred tax assets and liabilities
+as of November 28, 2025 and November 29, 2024 were as follows:
+
+(in millions) 2025 2024
+Deferred tax assets:
+Capitalized expenses $ 2,065 §$ 1,625
+Credit carryforwards 477 343
+Net operating loss and capital loss carryforwards 306 308
+Accrued liabilities 202 174
+Intangible assets 93 117
+Stock-based compensation 70 66
+Operating lease liabilities 68 79
+Benefits relating to tax positions 59 64
+Total gross deferred tax assets 3,340 2,776
+Valuation allowance (806) (725)
+Total deferred tax assets 2,534 2,051
+Deferred tax liabilities:
+Acquired intangible assets 144 180
+Prepaid expenses 112 112
+Depreciation and amortization 62 70
+Operating lease right-of-use assets 45 52
+Other 16 11
+Total deferred tax liabilities 379 425
+Net deferred tax assets $ 2,155 $ 1,626
+
+Deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences
+between the financial reporting and tax bases of assets and liabilities, and for tax loss and credit carryforwards.
+
+As of November 28, 2025, we had federal and state tax credit carryforwards of approximately $146 million and
+$412 million, respectively, as well as state net operating loss carryforwards of approximately $410 million. The majority of the
+state tax credits can be carried forward indefinitely, and the remaining net operating loss and credit carryforwards will expire in
+
+72

@@ -1,0 +1,64 @@
+Table of Contents
+
+Our ability to acquire other businesses or technologies, make strategic investments or integrate acquired businesses
+effectively may also be impaired by adverse economic and political events, including trade tensions, and increased global
+scrutiny and evolving regulatory expectations relating to acquisitions and other strategic transactions. We may not be able to
+complete acquisitions or other strategic transactions to realize the anticipated benefits of such acquisitions or transactions on
+favorable terms, or at all, including as a result of challenges in obtaining regulatory approvals, and may incur additional costs.
+For example, we have experienced difficulties in obtaining regulatory approvals, resulting in the termination of a previously
+announced acquisition and the incurrence of additional costs. Any of these factors may adversely affect our business and
+financial results.
+
+Risks Related to the Operation of Our Business
+
+If we are unable to recruit and retain key personnel, our business may be harmed, and our hybrid work model may present
+challenges, which could adversely impact our business.
+
+Much of our future success depends on the continued service, availability and performance of our senior management
+and highly skilled personnel across all levels of our organization. Our senior management has acquired specialized knowledge
+and skills with respect to our business, and the loss of any of these individuals could harm our business, especially if we are not
+successful in developing adequate succession plans. Our efforts to attract, develop, integrate and retain highly skilled employees
+may be compounded by intensified restrictions on immigration or the availability of work visas. The technology industry has
+been and may continue to be subject to substantial and continuous competition for talent, particularly with AI and cybersecurity
+backgrounds, and demand for cutting-edge or unique skill sets may continue to be highly competitive, both of which are
+heightened with hybrid or remote working arrangements. Our hybrid work environment may also present operational, security
+and workplace culture challenges, which could negatively affect our ability to execute against our business objectives and retain
+and recruit personnel.
+
+We have experienced, and may continue to experience, higher compensation costs to retain and recruit senior
+management or highly skilled personnel that may not be offset by innovation, improved productivity or increased sales. We
+continue to hire personnel in countries where exceptional technical knowledge and other expertise are offered at lower costs,
+which increases the efficiency of our global workforce structure and reduces our personnel-related expenditures. Nonetheless,
+as globalization continues, competition for talent in those countries has increased, which may impact our ability to retain these
+employees and increase our compensation-related expenses.
+
+Service interruptions or failures of our information technology systems or those of third parties may impair the availability
+of our solutions, which may expose us to liability, damage our reputation and harm our future financial results.
+
+Much of our business, including our online store at adobe.com, our cloud solutions and various business processes such
+as our enterprise resource planning system and customer and sales support, relies on hardware and services that are hosted,
+managed and controlled directly by us or third-party service providers to be available to our customers and users without
+disruption. We do not have redundancy for all our systems, many of our critical applications (“apps”) reside in only one of our
+data centers, and our disaster recovery planning may not account for all eventualities. If any critical third-party service provider
+of hosting or content delivery services is negatively affected or becomes unavailable to us for any reason, we may not be able to
+deliver the corresponding solutions to our customers and users. Failure of our systems or those of our third-party service
+providers could cause large, system-wide failures, disrupt our business operations and those of our customers, subject us to
+reputational harm, require costly and time-intensive notifications, and cause us to lose customers, users and future business.
+Occasionally, we migrate data among data centers and to third-party hosted environments. If a transition among data centers or
+to third-party service providers encounters unexpected interruptions, unforeseen complexity or unplanned disruptions despite
+precautions undertaken during the process, this may impair our delivery of solutions to customers and result in increased costs
+and liabilities, which may harm our financial results, reputation and business.
+
+It is also possible that hardware or software failures or errors in our systems (or those of our third-party service
+providers) could result in data loss or corruption, cause the information that we collect or maintain to be incomplete or contain
+inaccuracies that our customers regard as significant, or cause us to fail to meet committed service levels or comply with
+applicable notification requirements or other relevant contractual obligations to our customers. Furthermore, our ability to
+collect and report data may be delayed or interrupted by a number of factors, including access to the internet, the failure of our
+network or software systems, security breaches or significant variability in visitor traffic on customer websites. We may also
+find, on occasion, that we cannot deliver data and reports to our customers in near real-time due to factors such as significant
+spikes in customer activity on their websites or failures of our network or software (or that of a third-party service provider). If
+we fail to plan infrastructure capacity appropriately and expand it proportionally with the needs of our customer and user base,
+and we experience a rapid and significant demand on the capacity of our data centers or those of third parties, service outages or
+performance issues could occur, which may impact our customers. Such a strain on our infrastructure capacity may subject us
+
+20

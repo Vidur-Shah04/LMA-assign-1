@@ -1,0 +1,49 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 14. STOCK REPURCHASE PROGRAM
+
+To facilitate our stock repurchase program, designed to return value to our stockholders and minimize dilution from
+stock issuances, we may repurchase our shares in the open market or enter into structured repurchase agreements with third
+parties. In March 2024, our Board of Directors granted authority to repurchase up to $25 billion in our common stock through
+March 14, 2028. In September 2025, we entered into a stock repurchase arrangement with a large financial institution to
+execute up to $2.5 billion in open market repurchases, which remained partially outstanding as of November 28, 2025. Upon
+completion of this arrangement, $5.90 billion remains under our March 2024 stock repurchase authority.
+
+Share repurchase activities for fiscal 2025, 2024 and 2023 were as follows:
+
+Number of Shares
+
+(in millions) Delivered Amount Paid
+Fiscal 2025
+Accelerated share repurchase agreements 16.8 $ 6,250
+Open market repurchases 14.0 5,031
+Total 30.8 $ 11,281
+Fiscal 2024 ne
+Accelerated share repurchase agreements 16.9 §$ 9,500
+Other structured stock repurchases 0.6 —
+Total 17.5. $ 9,500.
+Fiscal 2023
+Accelerated share repurchase agreements 40 $ 1,400
+Other structured stock repurchases 75 3,000
+Total 11.5 $ 4,400
+
+“) During fiscal 2024, we received the final delivery of shares under a structured stock repurchase agreement entered into in
+fiscal 2023.
+
+Under the terms of our accelerated share repurchase agreements, financial institutions agree to deliver a portion of shares
+to us at contract inception and the remaining shares at settlement. The total number of shares delivered and average purchase
+price paid per share are determined upon settlement based on the Volume Weighted Average Price (“WWAP”) over the term of
+the contract, less an agreed upon discount. Under the terms of our other structured stock repurchase agreements, financial
+institutions agree to deliver shares to us at monthly intervals during the respective contract terms, and the number of shares
+delivered each month are determined based on the total notional amount of the contracts, the number of trading days in the
+intervals and the VWAP during the intervals, less an agreed upon discount.
+
+Prepayments for stock repurchases are classified as treasury stock, a component of stockholders’ equity on our
+Consolidated Balance Sheets, at the payment date, though only shares physically delivered to us by the end of the respective
+period are excluded from the computation of net income per share.
+
+78

@@ -1,0 +1,64 @@
+Table of Contents
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+All market risk sensitive instruments were entered into for non-trading purposes.
+
+Foreign Currency Risk
+
+Foreign Currency Exposures and Hedging Instruments
+
+In countries outside the United States, we transact business in U.S. Dollars and various other currencies, which subject us
+to exposure from movements in exchange rates. We may use foreign exchange forward contracts and option contracts to hedge
+a portion of our forecasted foreign currency denominated revenue and expenses. Additionally, we hedge our net recognized
+foreign currency monetary assets and liabilities with foreign exchange forward contracts to reduce the risk that our earnings and
+cash flows will be adversely affected by changes in exchange rates.
+
+Our significant foreign currency revenue exposures for fiscal 2025, 2024 and 2023 were as follows:
+
+(in millions) 2025 2024 2023
+
+Euro € 3,430 € 3,149 € 2,842
+Japanese Yen ¥ 163,826 ¥ 144,800 ¥ 129,127
+British Pounds £ 942 £ 887 £ 818
+Australian Dollars $ 1,136 $ 1,064 $ 973
+Canadian Dollars $ 743 § 669 $ 599
+
+As of November 28, 2025, the gross notional amounts of all outstanding foreign exchange contracts totaled $6.54 billion,
+which included the notional equivalent of $3.27 billion in Euros, $884 million in Japanese Yen, $741 million in British Pounds,
+$668 million in Indian Rupees, $543 million in Australian Dollars, $391 million in Canadian dollars and $39 million in other
+foreign currencies. As of November 28, 2025, all contracts were set to expire at various dates through September 2027. The
+bank counterparties in these contracts could expose us to credit-related losses that would be largely mitigated with master
+netting arrangements with the same counterparty by permitting net settlement transactions. In addition, we enter into collateral
+security agreements that provide for collateral to be received or posted when the net fair value of these contracts fluctuates from
+contractually established thresholds.
+
+A sensitivity analysis was performed on all of our foreign exchange derivatives as of November 28, 2025. This
+sensitivity analysis measures the hypothetical market value resulting from a 10% shift in the value of exchange rates relative to
+the U.S. Dollar. A 10% increase in the value of the U.S. Dollar and a corresponding decrease in the value of the hedged foreign
+currency asset would lead to an increase in the fair value of our financial hedging instruments by $456 million. A 10% decrease
+in the value of the U.S. Dollar would lead to a decrease in the fair value of these financial instruments by $456 million.
+
+As a general rule, we do not use foreign exchange contracts to hedge local currency denominated operating expenses in
+countries where a natural hedge exists. For example, in many countries, revenue in the local currencies substantially offsets the
+local currency denominated operating expenses. We also have long-term investment exposures consisting of the capitalization
+and retained earnings in our non-U.S. Dollar functional currency foreign subsidiaries. As of November 28, 2025 and
+November 29, 2024, this long-term investment exposure totaled an absolute notional equivalent of $1.32 billion and $1.19
+billion, respectively. At this time, we do not hedge these long-term investment exposures.
+
+We do not use foreign exchange contracts for speculative trading purposes, nor do we hedge our foreign currency
+exposure in a manner that entirely offsets the effects of changes in foreign exchange rates. We regularly review our hedging
+program and assess the need to utilize financial instruments to hedge currency exposures on an ongoing basis.
+
+Cash Flow Hedges of Forecasted Foreign Currency Revenue and Expenses
+
+We may use foreign exchange purchased forward contracts or option contracts to hedge foreign currency revenue
+denominated in Euros, Japanese Yen, British Pounds, Australian Dollars and Canadian Dollars, or foreign currency expenses in
+Indian Rupees. We hedge these cash flow exposures to reduce the risk that our earnings and cash flows will be adversely
+affected by changes in exchange rates. These foreign exchange contracts, carried at fair value, have maturities of up to 24
+months. We enter into these foreign exchange contracts to hedge forecasted revenue and expenses in the normal course of
+business and accordingly, they are not speculative in nature.
+
+We record changes in fair value of these cash flow hedges of foreign currency denominated revenue and expenses in
+accumulated other comprehensive income (loss) in our Consolidated Balance Sheets, until the forecasted transaction occurs.
+
+44

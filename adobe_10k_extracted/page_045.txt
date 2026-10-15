@@ -1,0 +1,46 @@
+Table of Contents
+
+When the forecasted transaction affects earnings, we reclassify the related gain or loss on the cash flow hedge to revenue or
+operating expenses, as applicable. In the event the underlying forecasted transaction does not occur, or it becomes probable that
+it will not occur, we reclassify the gain or loss on the related cash flow hedge from accumulated other comprehensive income
+(loss) to revenue or operating expenses, as applicable. For the fiscal year ended November 28, 2025, there were no net gains or
+losses recognized in revenue or operating expenses relating to hedges of forecasted transactions that did not occur.
+
+Non-Designated Hedges of Foreign Currency Assets and Liabilities
+
+Our derivatives not designated as hedging instruments consist of foreign currency forward contracts that we primarily
+use to hedge monetary assets and liabilities denominated in non-functional currencies to reduce the risk that our earnings and
+cash flows will be adversely affected by changes in foreign currency exchange rates. These foreign exchange contracts are
+carried at fair value with changes in fair value of these contracts recorded to other income (expense), net in our Consolidated
+Statements of Income. These contracts reduce the impact of currency exchange rate movements on our assets and liabilities. At
+November 28, 2025, the outstanding balance sheet hedging derivatives had maturities of 180 days or less.
+
+See Note 5 of our Notes to Consolidated Financial Statements for information regarding our derivative financial
+instruments.
+
+Interest Rate Risk
+Short-Term Investments and Fixed Income Securities
+
+At November 28, 2025, we had debt securities classified as short-term investments of $1.16 billion. Changes in interest
+rates could adversely affect the market value of these investments. A sensitivity analysis was performed on our short-term
+investment portfolio as of November 28, 2025, based on an estimate of the hypothetical changes in market value of the portfolio
+that would result from an immediate parallel shift in the yield curve. A 150 basis point increase in interest rates would lead to a
+$4 million decrease in the market value of our short-term investments. Conversely, a 150 basis point decrease in interest rates
+would lead to a $4 million increase in the market value of our short-term investments.
+
+Senior Notes
+
+As of November 28, 2025, we had $6.15 billion of senior notes outstanding. We have entered into interest rate swaps
+related to certain of our senior notes that effectively convert the fixed interest rates to floating interest rates based on the
+Secured Overnight Financing Rate Overnight Index Swap Rate plus a fixed number of basis points through their respective par
+call dates. Accordingly, our exposure to fluctuations in market interest rates is on the hedged fixed-rate debt of $2.70 billion.
+An immediate hypothetical 50 basis point increase or decrease in market interest rates would lead to a $71 million change in the
+fair value of our hedged fixed-rate debt. The remainder of our outstanding senior notes bear interest at fixed rates, and therefore
+do not subject us to financial statement risk associated with changes in interest rates.
+
+As of November 28, 2025, the total carrying amount of our senior notes was $6.21 billion and the related fair value based
+on observable market prices in less active markets was $6.18 billion.
+
+See Note 17 of our Notes to Consolidated Financial Statements for information regarding our senior notes.
+
+45

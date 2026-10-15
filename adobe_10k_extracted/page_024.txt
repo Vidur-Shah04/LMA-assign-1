@@ -1,0 +1,60 @@
+Table of Contents
+
+Risks Related to Laws and Regulations
+
+We are, and may in the future become, subject to litigation, regulatory inquiries, investigations and other actions, which
+could result in an unfavorable outcome and have an adverse effect on our business, financial condition, results of
+operations and cash flows.
+
+We are, and may in the future become, subject to various legal proceedings (including class action lawsuits), claims,
+negotiations, regulatory inquiries, investigations, enforcement actions and other actions, including relating to antitrust,
+consumer protection, data privacy and security, employment practices, product liability and the validity or alleged infringement
+of third-party intellectual property rights, including patent rights, among others. Such activity has increased over time with
+evolving global regulatory and enforcement landscapes and as our solutions have become more available to, and used by, more
+enterprises and consumers worldwide. For example, there is an increase in regulatory activity in connection with federal and
+state consumer protection laws, including some suits which seek civil penalties. Any proceedings, actions, claims or inquiries
+initiated by or against us, whether successful or not, may be highly time consuming; result in costly litigation, damage awards,
+consent decrees, injunctive relief or increased costs of business; require us to change our business practices or products; result
+in negative publicity; require significant amounts of management time; result in the diversion of significant operational
+resources; or otherwise harm our business and financial results.
+
+Disputes and litigation can be complex and are typically costly and can be disruptive to our business operations by
+diverting the attention of management and key personnel. For example, third-party intellectual property disputes, including
+those initiated by patent assertion entities or competitors, could subject us to significant liabilities, require us to enter into
+royalty and licensing arrangements on unfavorable terms, prevent us from offering certain solutions, subject us to injunctions
+restricting our sales, cause severe disruptions to our operations or the markets in which we compete, or require us to satisfy
+indemnification commitments with our customers, including contractual provisions under various license arrangements and
+service agreements. In addition, we have incurred, and may in the future incur, significant costs in acquiring the necessary third-
+party intellectual property rights for use in our products, in some cases to fulfill contractual obligations with our customers. Any
+of these occurrences could significantly harm our business.
+
+We have not prevailed, and may not in the future prevail, in every lawsuit or dispute. For further information about
+specific litigation and proceedings, see the section titled “Legal Proceedings” contained in Part II, Item 8, Note 16 of our
+Notes to Consolidated Financial Statements of this report.
+
+We are subject to risks associated with compliance with laws and regulations globally, which may harm our business.
+
+We are a global company subject to varied and complex laws, regulations, government actions and customs, both
+domestically and internationally. These local, state, federal and international laws and regulations relate to a number of aspects
+of our business, including trade laws such as import and export controls, anti-boycott, economic sanctions and embargoes, data
+and transaction processing security, payment card industry data security standards, antitrust and competition, consumer
+protection, records management, user-generated content hosted on websites we operate, privacy practices, data residency and
+transfer, AI, corporate governance, employment practices, immigration, employee and third-party complaints, anti-corruption,
+conflicts of interest, securities regulations, sustainability and other regulatory requirements affecting trade and investment. The
+application of these laws and regulations to our business is often unclear and evolving, and may at times conflict. Further, we
+are subject to the U.S. Foreign Corrupt Practices Act and other anti-corruption and anti-bribery laws, which may conflict with
+local customs and practices in other foreign countries, particularly those with developing economies where it is common to
+engage in practices that would be prohibited under such laws. We cannot provide assurance that our employees, contractors,
+agents, business partners and vendors will not take actions in violation of our internal policies, U.S. laws or other applicable
+international laws. Compliance with the above laws and regulations may involve significant costs or require additional changes
+to our business practices that result in reduced revenue and profitability. Non-compliance could also result in fines, damages,
+criminal sanctions against us, our officers or our employees, prohibitions on the conduct of our business and damage to our
+reputation.
+
+In addition, approximately 50% of our employees are located outside the United States. Accordingly, we are exposed to
+changes in laws governing our employee relationships in various U.S. and foreign jurisdictions, including laws and regulations
+regarding wage and hour requirements, fair labor standards, employee data privacy, unemployment tax rates, workers’
+compensation rates, citizenship requirements, immigration and payroll and other taxes, which likely would have a direct impact
+on our operating costs.
+
+24

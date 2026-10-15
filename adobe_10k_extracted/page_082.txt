@@ -1,0 +1,59 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 17. DEBT
+
+The carrying value of our borrowings as of November 28, 2025 and November 29, 2024 were as follows:
+
+Effective
+Interest
+(dollars in millions) Issuance Date Due Date Rate 2025 2024
+1.90% 2025 Notes February 2020 ‘February 2025 2.07% — $§$ 500
+3.25% 2025 Notes January 2015 February 2025 3.67% — 1,000
+2.15% 2027 Notes February 2020 February 2027 2.26% 850 850
+4.85% 2027 Notes April 2024 April 2027 5.03% 500 500
+4.75% 2028 Notes January 2025 January 2028 4.93% 800 —
+4.80% 2029 Notes April 2024 April 2029 4.93% 750 750
+4.95% 2030 Notes January 2025 January 2030 5.09% 700 —
+2.30% 2030 Notes February 2020 February 2030 2.69% 1,300 1,300
+4.95% 2034 Notes April 2024 April 2034 5.03% 750 750
+5.30% 2035 Notes January 2025 January 2035 5.40% 500 —
+Total debt outstanding, at par $ 6,150 $ 5,650
+Less: Current portion of debt, at par — (1,500)
+Fair value of interest rate swaps 86 =
+Unamortized discount and debt issuance costs (26) (21)
+Carrying value of long-term debt $ 6,210 $ 4,129
+Current portion of debt, at par $ — $ 1,500
+Unamortized discount and debt issuance costs — (1)
+Carrying value of current debt $ — $ 1,499
+
+Senior Notes
+
+In January 2025, we issued $800 million of senior notes due January 17, 2028, $700 million of senior notes due
+January 17, 2030 and $500 million of senior notes due January 17, 2035. Our total proceeds were approximately $1.99 billion,
+net of an issuance discount of $3 million and total issuance costs of $9 million.
+
+In February 2025, $1.5 billion of senior notes became due and were repaid.
+
+Discounts and issuance costs on our senior notes are amortized to interest expense over the terms of the respective notes
+using the effective interest method. Interest on the notes issued in February 2020 is payable semi-annually, in arrears, on
+February | and August 1. Interest on the notes issued in April 2024 is payable semi-annually, in arrears, on April 4 and October
+4. Interest on the notes issued in January 2025 is payable semi-annually, in arrears, on January 17 and July 17.
+
+During fiscal 2025, we entered into interest rate swaps related to certain of our senior notes. The interest rate swaps
+effectively convert the fixed interest rates on the notes to floating interest rates based on the SOFR OIS. Under the terms of the
+swaps, we will pay quarterly interest at the daily compounded SOFR OIS plus a fixed number of basis points on the notional
+amount through the respective par call dates for the notes. In exchange, we will receive the fixed rate interest on the notes from
+the swap counterparties on a semi-annual basis. The fair value of the interest rate swaps is included in the carrying value of our
+debt in the Consolidated Balance Sheets. See Note 5 for further details regarding our interest rate swap derivatives.
+
+Our senior notes rank equally with our other unsecured and unsubordinated indebtedness, and do not contain financial
+covenants. We may redeem the notes at any time, subject to a make-whole premium.
+
+For the senior notes issued in February 2020, upon the occurrence of certain change of control triggering events, we may
+be required to repurchase the notes, at a price equal to 101% of their principal amount, plus accrued and unpaid interest to the
+
+82

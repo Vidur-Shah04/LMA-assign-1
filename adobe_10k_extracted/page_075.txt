@@ -1,0 +1,55 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+50% and achievement of each performance goal is determined independently of the other. Shares associated with each
+performance goal are not awarded until the corresponding performance targets are defined.
+
+Performance share awards in each of our 2025, 2024 and 2023 Performance Share Programs will cliff-vest upon the later
+of (1) the three-year anniversary of the earliest vesting commencement date in the respective Performance Share Program, or (ii)
+the ECC's certification of the level of achievement of the final performance period in the respective Performance Share
+Program, contingent upon the participant’s continued service. Participants can earn between 0% and 200% of the target number
+of performance shares.
+
+As of November 28, 2025, the shares awarded under our 2025, 2024 and 2023 Performance Share Programs remained
+outstanding and unvested.
+
+Employee Stock Purchase Plan
+
+Our Employee Stock Purchase Plan (“ESPP”) allows eligible employee participants to purchase shares of our common
+stock at a discount through payroll deductions. The ESPP consists of twenty-four-month offering periods with four six-month
+purchase periods in each offering period. Employees purchase shares in each purchase period at 85% of the market value of our
+common stock at either the beginning of the offering period or the end of the purchase period, whichever price is lower. If the
+market value of our common stock at the end of a purchase period is lower than the market value at the beginning of the
+offering period, participants are rolled over into the subsequent offering, resulting in a reset of the offering price and the twenty-
+four month offering period.
+
+The ESPP will continue until the earlier of termination by the Board of Directors or the date on which all of the shares
+available for issuance under the plan have been issued.
+
+As of November 28, 2025, we had reserved 103.0 million shares of our common stock for issuance under the ESPP and
+approximately 7.4 million shares remain available for future issuance.
+
+Issuance of Shares
+
+Upon vesting of restricted stock units and performance shares or purchase of shares under the ESPP, we will issue
+treasury stock. If treasury stock is not available, common stock will be issued. In order to minimize the impact of ongoing
+dilution from issuance of shares, we instituted a stock repurchase program. See Note 14 for information regarding our stock
+repurchase programs.
+
+Valuation of Stock-Based Compensation
+Stock-based compensation cost is measured at the grant date based on the fair value of the award.
+
+Our restricted stock units are valued based on the fair market value of the award on the grant date. Our performance
+share awards which are contingent upon achievement of relative total stockholder return are valued using a Monte Carlo
+Simulation model. Our performance share awards which are contingent upon achievement of revenue-based financial metrics
+are valued based on the fair market value of the award on the grant date.
+
+We use the Black-Scholes option pricing model to determine the fair value of ESPP purchase rights. The determination
+of the grant date fair value of our ESPP purchase rights is affected by our stock price as well as assumptions regarding a
+number of variables. These variables include our expected stock price volatility over the expected term of the awards, actual
+and projected employee stock option exercise behaviors, a risk-free interest rate and any expected dividends.
+
+75

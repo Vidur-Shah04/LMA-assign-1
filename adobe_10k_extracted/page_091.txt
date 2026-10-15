@@ -1,0 +1,46 @@
+Table of Contents
+
+Incorporated by Reference
+
+Exhibit Exhibit Filed
+Number Exhibit Description Form Filing Date Number SEC File No. Herewith
+31.1 Certification of Chief Executive Officer, as required by x
+Rule 13a-14(a) of the Securities Exchange Act of 1934
+31.2 Certification of Chief Financial Officer, as required by x
+Rule 13a-14(a) of the Securities Exchange Act of 1934
+32.1 Certification of Chief Executive Officer, as required by x
+Rule 13a-14(b) of the Securities Exchange Act of 1934+
+32.2 Certification of Chief Financial Officer, as required by x
+Rule 13a-14(b) of the Securities Exchange Act of 1934+
+97 Adobe Inc. Incentive Compensation Recovery Policy* 10-K 1/17/24 97  000-15175
+101.INS Inline XBRL Instance - the instance document does not x
+
+appear in the Interactive Data File because its XBRL
+tags are embedded within the Inline XBRL document.
+
+101.SCH Inline XBRL Taxonomy Extension Schema
+101.CAL Inline XBRL Taxonomy Extension Calculation
+101.LAB Inline XBRL Taxonomy Extension Labels
+
+101.PRE Inline XBRL Taxonomy Extension Presentation
+
+x ~*~ MM KK
+
+101.DEF Inline XBRL Taxonomy Extension Definition
+
+104 Cover Page Interactive Data File (formatted as Inline
+XBRL and contained in Exhibit 101)
+
+* Management contract or compensatory plan or arrangement.
+
+t The certifications attached as Exhibits 32.1 and 32.2 that accompany this Annual Report on Form 10-K, are not
+deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any
+filing of Adobe Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as
+amended, whether made before or after the date of this Form 10-K, irrespective of any general incorporation
+language contained in such filing.
+
+ITEM 16. FORM 10-K SUMMARY
+
+None.
+
+91

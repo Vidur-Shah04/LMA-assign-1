@@ -1,0 +1,32 @@
+Table of Contents
+
+ADOBE INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(In millions)
+
+Years Ended
+
+November 28, November 29, December 1,
+2025 2024 2023
+Increase/(Decrease)
+Net income $ 7,130 $ 5,560 $ 5,428
+Other comprehensive income (loss), net of taxes:
+Available-for-sale securities:
+Unrealized gains / losses on available-for-sale securities 1 11 24
+Reclassification adjustment for recognized gains / losses on available-
+for-sale securities — — 5
+Net increase (decrease) from available-for-sale securities 1 11 29
+Derivatives designated as hedging instruments:
+Unrealized gains / losses on derivative instruments (132) 89 (12)
+Reclassification adjustment for realized gains / losses on derivative
+instruments 7 17 (31)
+Net increase (decrease) from derivatives designated as hedging
+instruments (125) 106 (43)
+Foreign currency translation adjustments 80 (33) 22
+Other comprehensive income (loss), net of taxes (44) 84 8
+Total comprehensive income, net of taxes $ 7,086 $ 5,644 $ 5,436
+
+See accompanying Notes to Consolidated Financial Statements.
+
+49

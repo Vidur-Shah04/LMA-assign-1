@@ -1,0 +1,61 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Fair Value Hedges
+
+During fiscal 2025, we entered into interest rate swaps related to certain of our senior notes. The interest rate swaps
+effectively convert the fixed interest rates on the notes to floating interest rates based on the Secured Overnight Financing Rate
+Overnight Index Swap Rate (“SOFR OIS”). Under the terms of the swaps, we will pay quarterly interest at the daily
+compounded SOFR OIS plus a fixed number of basis points on the $2.70 billion notional amount through the respective par call
+dates for the notes. In exchange, we will receive the fixed rate interest on the notes from the swap counterparties on a semi-
+annual basis. See Note 17 for further details regarding our debt.
+
+The interest rate swaps are designated as fair value hedges. We record changes in fair value on the swaps associated with
+the hedged risk in interest expense in our Consolidated Statements of Income with a corresponding offset to the value of the
+senior notes being hedged.
+
+Non-Designated Hedges
+
+Our derivatives not designated as hedging instruments consist of foreign currency forward contracts that we primarily
+use to hedge monetary assets and liabilities denominated in non-functional currencies. The changes in fair value of these
+contracts are recorded to other income (expense), net in our Consolidated Statements of Income. Changes in the fair value of
+the underlying assets and liabilities associated with the hedged risk are generally offset by the changes in the fair value of the
+related contracts.
+
+As of November 28, 2025, gross notional amounts of outstanding foreign currency forward contracts hedging monetary
+assets and liabilities were $563 million, primarily hedging exposures denominated in Euros, Indian Rupees, Australian Dollars
+and British Pounds. As of November 29, 2024, gross notional amounts of outstanding contracts were $381 million, primarily
+hedging exposures denominated in Indian Rupees, Australian Dollars, British Pounds and Euros. At November 28, 2025 and
+November 29, 2024, the outstanding balance sheet hedging derivatives had maturities of 180 days or less.
+
+Fair value asset derivatives are included in prepaid expenses and other current assets for the current portion and other
+assets for the long-term portion, and fair value liability derivatives are included in accrued expenses and other current liabilities
+for the current portion and other liabilities for the long-term portion on our Consolidated Balance Sheets. The fair value of
+derivative instruments as of November 28, 2025 and November 29, 2024 were as follows:
+
+(in millions) 2025 2024
+Fair Value Fair Value Fair Value Fair Value
+Asset Liability Asset Liability
+Derivatives Derivatives Derivatives Derivatives
+
+Derivatives designated as hedging instruments:
+
+Foreign exchange contracts $ 82 $ 99 $ 128 $ 10
+
+Interest rate swaps 94 8 — —
+Derivatives not designated as hedging instruments:
+
+Foreign exchange contracts 2 1 1 1
+Total derivatives $ 178 $ 108 $ 129 $ 11
+
+Unrealized gains (losses) on derivative instruments, net of tax, recognized in our Consolidated Statements of
+Comprehensive Income for fiscal 2025, 2024 and 2023 were as follows:
+
+(in millions) 2025 2024 2023
+Derivatives in cash flow hedging relationships:
+Foreign exchange contracts $ (132) $ 89 §$ (12)
+
+67

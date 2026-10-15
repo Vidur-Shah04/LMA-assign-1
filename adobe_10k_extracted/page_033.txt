@@ -1,0 +1,63 @@
+Table of Contents
+
+RESULTS OF OPERATIONS
+Overview of Fiscal 2025
+
+For our fiscal 2025, we experienced strong demand across our Digital Media and Digital Experience offerings, driven by
+transformative and customer-focused product innovation. As we execute on our long-term growth initiatives, with emphasis on
+delivering value through Al-powered and highly differentiated solutions to meet the needs of our diverse and expanding
+customer base, we have continued to experience growth in software-based subscription revenue across our portfolio of
+offerings.
+
+Digital Media
+
+Our Digital Media products, services and solutions help users create, design and publish rich content and 3D
+experiences, and improve productivity by transforming how they view, share and collaborate on documents and content. These
+offerings include our Creative Cloud flagship applications (“apps”) such as Adobe Photoshop, Adobe Illustrator, Adobe
+Lightroom, Adobe Premiere Pro and Adobe After Effects; as well as Adobe Acrobat, Adobe Express, Adobe Firefly and many
+more products, which are available across surfaces and platforms as desktop tools, web and mobile apps and cloud-based
+services. Adobe Express is our web and mobile app designed to enable a broad spectrum of users, including novice content
+creators and communicators, to create, edit and customize content quickly and easily with content first, task-based solutions.
+Our Adobe Acrobat offerings fuel document productivity, enabling users to create, collaborate, review, approve, sign and track
+documents at home, in the office and across devices. AI innovation is deeply infused into our Digital Media solutions, including
+through Adobe Firefly-powered generative AI features available across our Creative Cloud flagship apps, and through Acrobat
+AI Assistant, a generative Al-powered conversational interface designed to enhance document experiences. In August 2025, we
+released Acrobat Studio, which brings together Adobe Acrobat, Adobe Express and AI agents to further unite productivity and
+creativity, empowering users to quickly derive insights from their documents and create visually compelling content. Our
+Digital Media customers include business professionals, consumers, creative professionals, creators and marketing
+professionals.
+
+During fiscal 2025, Annualized Recurring Revenue (“ARR”) was the key performance metric our management used to
+assess the health and trajectory of our overall Digital Media segment. Digital Media ARR was calculated as the sum of the
+annual value of Digital Media subscriptions and services and the annual value of Digital Media Enterprise Term License
+Agreements.
+
+Digital Media ARR grew to $19.20 billion at the end of fiscal 2025, representing 11.5% year-over-year growth. Our
+success in driving growth in ARR has positively affected our revenue growth. Digital Media segment revenue grew to $17.65
+billion in fiscal 2025, up from $15.86 billion in fiscal 2024, representing 11% year-over-year growth.
+
+Digital Experience
+
+Our Digital Experience apps and services are designed to accelerate customer experience orchestration at scale and
+supply intelligence for businesses of any size in any industry. Digital Experience is comprised of solutions to deliver actionable
+data, with products such as Adobe Analytics and Adobe Real-Time Customer Data Platform; optimize personalized content
+delivery, with products such as Adobe Experience Manager, Adobe Commerce and Adobe GenStudio for Performance
+Marketing; and manage customer journeys, with products such as Adobe Marketo Engage and Adobe Campaign. Our
+differentiation and competitive advantage are strengthened by our ability to use the Adobe Experience Platform to integrate our
+comprehensive set of solutions and our ability to embed AI into our product portfolio, such as with our Adobe Experience
+Platform AI Assistant, a generative Al-powered conversational interface designed to help customers automate workflows and
+generate new audiences and journeys. Our Digital Experience customers include marketing professionals such as brand
+managers, channel marketers and campaign strategists.
+
+Digital Experience revenue was $5.86 billion in fiscal 2025, up from $5.37 billion in fiscal 2024, representing 9% year-
+over-year growth. Subscription revenue grew to $5.41 billion in fiscal 2025, up from $4.86 billion in fiscal 2024,
+representing 11% year-over-year growth.
+
+Customer-Focused Strategy
+
+Our customers often are involved in workflows that integrate multiple Adobe products across both segments. By
+combining the creativity of our Digital Media business with the science of our Digital Experience business, such as with our
+Adobe GenStudio solutions, we help our customers to more efficiently and effectively make, manage, measure and monetize
+their content across every channel with an end-to-end workflow.
+
+33

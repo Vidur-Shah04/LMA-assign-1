@@ -1,0 +1,59 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+litigation. Any remedies or compliance requirements could adversely affect our ability to operate our business or have a
+materially adverse impact on our financial results.
+
+On October 20, 2023, a securities class action captioned Pembroke Pines Firefighters & Police Officers Pension Fund et
+al v. Adobe, Inc. et al, renamed as In Re Adobe Inc. Securities Litigation, Case No. 1:23-cv-09260, was filed in the U.S.
+District Court for the Southern District of New York (the “Securities Action”) naming Adobe and certain of our current and
+former officers as defendants. The Securities Action purports to be brought on behalf of purchasers of the Company’s stock
+between July 23, 2021 and September 22, 2022 (the “Class Period”). The complaint, which was amended on February 23, 2024,
+alleges that certain public statements made by Adobe during the Class Period related to competition from Figma and the
+adequacy of Adobe’s existing offerings to counter harms Adobe may have faced due to Figma’s growing market position were
+materially false and misleading. The Securities Action seeks unspecified compensatory damages, attorneys’ fees and costs, and
+extraordinary equitable and/or injunctive relief. We filed a motion to dismiss the Securities Action, which was granted in full on
+March 27, 2025. Plaintiff sought leave to amend the complaint in response to the court’s order, which the court denied on
+November 7, 2025. Plaintiff is appealing the court’s orders.
+
+On November 16, 2023, a shareholder derivative action captioned Shah v. Narayen et al, Case No. 1:23-cv-01315, was
+filed in the U.S. District Court for the District of Delaware (the “Shah Action”), purportedly on behalf of Adobe. On January 3,
+2024, a second shareholder derivative action captioned Gervat v. Narayen et al, Case No. 1:24-cv-00006, was filed in the U.S.
+District Court for the District of Delaware (the “Gervat Action”), purportedly on behalf of Adobe. On January 24, 2024, the
+Court consolidated the Shah and Gervat Actions (together, the “Consolidated Derivative Action”). On January 18, 2024, a
+shareholder derivative action captioned Sbriglio v. Narayen et al., Case No. 24-cv-429458, was filed in California Superior
+Court (the “Sbriglio Action”), purportedly on behalf of Adobe. On January 29, 2024, a shareholder derivative action captioned
+Roy v. Narayen et al., No. 1:24-cv-00633, was filed in the U.S. District Court for the Southern District of New York, (the “Roy
+Action’), purportedly on behalf of Adobe. On May 28, 2025, a shareholder derivative action captioned Daniel v. Narayen et al.,
+Case No. 25-cv-46762 was filed in California Superior Court (the “Daniel Action,” and together with the Consolidated
+Derivative Action, the Roy Action, and the Sbriglio Action, the “Derivative Actions”), purportedly on behalf of Adobe. On July
+11, 2025, the Sbriglio and Daniel Actions were consolidated. The Derivative Actions are based largely on the same alleged
+facts and circumstances as the Securities Action, and name certain of our current and former officers and members of our Board
+of Directors as defendants and Adobe as a nominal defendant. The Derivative Actions together allege claims for breach of
+fiduciary duty and/or aiding and abetting breach of fiduciary duties, unjust enrichment, waste of corporate assets, abuse of
+control, and violations of Section 10(b) (and Rule 10b-5 promulgated thereunder), Section 20(a), and/or Section 21D of the
+Securities Exchange Act of 1934, as amended, and seek recovery of unspecified damages, restitution, and attorney’s fees and
+costs, as well as disgorgement of profits and certain payments and benefits, in the case of the Gervat and Daniel Actions, and
+improvements to Adobe’s corporate governance and internal procedures, in the case of the Shah and Daniel Actions, on behalf
+of Adobe. The Derivative Actions are presently stayed.
+
+We dispute the allegations of wrongdoing in the Securities Action and the Derivative Actions and intend to vigorously
+defend ourselves in these matters. In view of the complexity and ongoing and uncertain nature of the outstanding proceedings
+and inquiries, at this time we are unable to estimate a reasonably possible financial loss or range of financial loss, if any, that we
+may incur to resolve or settle the Securities Action and the Derivative Actions.
+
+In connection with disputes relating to the validity or alleged infringement of third-party intellectual property rights,
+including patent rights, we have been, are currently and may in the future be subject to claims, negotiations or complex,
+protracted litigation. Intellectual property disputes and litigation may be very costly and can be disruptive to our business
+operations by diverting the attention and energies of management and key technical personnel. Although we have successfully
+defended or resolved past litigation and disputes, we may not prevail in any ongoing or future litigation and disputes. Third-
+party intellectual property disputes could subject us to significant liabilities, require us to enter into royalty and licensing
+arrangements on unfavorable terms, prevent us from licensing certain of our products or offering certain of our services, subject
+us to injunctions restricting our sale of products or services, cause severe disruptions to our operations or the markets in which
+we compete, or require us to satisfy indemnification commitments with our customers including contractual provisions under
+various license arrangements and service agreements.
+
+81

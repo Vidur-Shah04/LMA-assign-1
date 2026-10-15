@@ -1,0 +1,63 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Fully hosted subscription services (“SaaS”) allow customers to access hosted software during the contractual term
+without taking possession of the software. Cloud-hosted subscription services may be sold on a fee-per-subscription period
+basis or based on consumption or usage.
+
+We recognize revenue ratably over the contractual service term, which typically ranges from | to 36 months, for hosted
+services that are priced based on a committed number of transactions where the delivery and consumption of the benefit of the
+services occur evenly over time, beginning on the date the services associated with the committed transactions are first made
+available to the customer and continuing through the end of the contractual service term. Over-usage fees and fees based on the
+actual number of transactions are billed in accordance with contract terms as these fees are incurred and are included in the
+transaction price of an arrangement as variable consideration. Fees based on a number of transactions, where invoicing is
+aligned to the pattern of performance, customer benefit and consumption, are typically accounted for utilizing the “as-invoiced”
+practical expedient. Revenue for subscriptions sold as a fee per period is recognized ratably over the contractual term as the
+customer simultaneously receives and consumes the benefit of the underlying service.
+
+When cloud-enabled services are highly integrated and interrelated with on-premise/on-device software, the individual
+components are not considered distinct and revenue is recognized ratably over the subscription period for which the cloud-
+enabled services are provided.
+
+Subscription-based consulting services and subscription support plans related to those customer arrangements whose
+revenues we Classify as subscription revenues represent stand-ready performance obligations. Revenue from these service and
+support offerings is recognized ratably over their respective contractual terms and classified as subscription revenue.
+
+Licenses for on-premise software may be purchased on a perpetual basis, as a subscription for a fixed period of time, or
+based on usage for certain of our original equipment manufacturer (“OEM”) and royalty agreements. Revenue from non-cloud
+enabled on-premise licenses without unilateral cancellation rights or monthly renewal options is recognized at the point in time
+the software is available to the customer, provided all other revenue recognition criteria are met, and classified as product
+revenue on our Consolidated Statements of Income. Revenue from on-premise term license or term licensing arrangements with
+unilateral cancellation rights or monthly renewal options, and any associated maintenance and support, is classified as
+subscription revenue.
+
+Our services and other revenue is comprised primarily of fees related to project-based consulting and training, as well as
+maintenance and support for certain on-premise licenses that are recognized at a point in time and our advertising offerings. We
+sell our project-based consulting contracts on a time-and-materials or fixed-fee basis. These revenues are recognized as the
+services are performed for time-and-materials contracts and on a relative performance basis for fixed-fee contracts. Training
+revenues are recognized as the services are performed. Our maintenance and support offerings, which entitle customers,
+partners and developers to receive desktop product upgrades and enhancements or technical support, depending on the offering,
+are generally recognized ratably over the term of the arrangement. Our transaction-based advertising offerings, where fees are
+based on a number of impressions per month and invoicing is aligned to the pattern of performance, customer benefit and
+consumption, are typically accounted for utilizing the “as-invoiced” practical expedient.
+
+Judgments
+
+Our contracts with customers may include promises to transfer multiple products and services. Determining whether
+products and services are distinct performance obligations to be accounted for separately or combined as part of a single
+performance obligation may require significant judgment, primarily for our solutions that include both on-premise and/or on-
+device software licenses and cloud services. We have concluded that certain subscription offerings, which include both on-
+premise/on-device software licenses and cloud services, represent a single, highly integrated performance obligation. This
+conclusion reflects the high degree of integration, interdependency and interrelation between the software and the cloud
+services, such that customers receive the intended benefit only when these components operate together. The nature of our
+promise to customers is to deliver a complete end-to-end solution, and the intended functionality and workflow efficiencies
+cannot be obtained from either the software or the cloud services on a standalone basis. Accordingly, revenue for these
+offerings is recognized ratably over the subscription period during which the cloud services are provided.
+
+Standalone selling price is established by maximizing the amount of observable inputs, primarily actual historical selling
+prices for performance obligations where available, and includes consideration of factors such as go-to-market model and
+
+53

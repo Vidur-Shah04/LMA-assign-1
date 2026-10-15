@@ -1,0 +1,59 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 8. GOODWILL AND OTHER INTANGIBLES
+Goodwill by reportable segment and activity was as follows:
+
+Digital Digital Publishing and
+
+(in millions) Media Experience Advertising Total Goodwill
+Balances at December 1, 2023 $ 3,890 $ 8,517 $ 398 $ 12,805
+Foreign currency translation (1) (16) — (17)
+Balances at November 29, 2024 $ 3,889 §$ 8,501 $ 398 §$ 12,788
+Acquisitions 14 — — 14
+Foreign currency translation 3 52 = 55
+Balances at November 28, 2025 $ 3,906 $ 8,553 $ 398 §$ 12,857
+
+During the second quarter of fiscal 2025, we completed our annual goodwill impairment test associated with our
+reporting units and, based on the qualitative assessment, determined there was no impairment of goodwill. We did not identify
+any events or changes in circumstances since the performance of our annual goodwill impairment test that would require us to
+perform another goodwill impairment test during the fiscal year.
+
+Other intangibles, net, as of November 28, 2025 and November 29, 2024 were as follows:
+
+(dollars in millions) 2025 2024
+Weighted
+Gross Average Gross
+
+Carrying Accumulated Useful Life Carrying Accumulated
+
+Amount Amortization Net (years) Amount Amortization Net
+Customer contracts and
+relationships $ 1,208 $ (857) $ 351 10 $ 1,203 $ (742) $ 461
+Purchased technology 881 (853) 28 6 877 (704) 173
+Trademarks 372 (301) 71 9 372 (258) 114
+Other 60 (15) 45 7 42 (8) 34
+
+Other intangibles, net $2,521 $ (2,026) $ 495 $2,494 $ (1,712) 782
+
+Amortization expense related to other intangibles was $310 million, $336 million and $375 million for fiscal 2025, 2024
+and 2023 respectively. Of these amounts, $151 million, $167 million and $207 million was included in cost of sales for fiscal
+2025, 2024 and 2023 respectively. We did not recognize any intangible asset impairment charges for all periods presented.
+
+Other intangibles are amortized over their estimated useful lives of 3 to 14 years. As of November 28, 2025, the
+estimated aggregate amortization expense for each of the five succeeding fiscal years was as follows:
+
+(in millions)
+Fiscal Year Other Intangibles
+2026 $ 161
+2027 119
+2028 73
+2029 69
+2030 65
+Thereafter 8
+Total expected amortization expense $ 495
+
+70

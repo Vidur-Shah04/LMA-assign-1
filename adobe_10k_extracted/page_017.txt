@@ -1,0 +1,60 @@
+Table of Contents
+
+ITEM 1A. RISK FACTORS
+
+As previously discussed, our actual results could differ materially from our forward-looking statements. Below we
+discuss some of the factors that could cause these differences. The occurrence of these and many other factors described in this
+report, and factors that we do not presently know or that we currently believe to be immaterial, could materially and adversely
+affect our operations, performance and financial condition. Many factors affect more than one category and the factors are not
+in order of significance or probability of occurrence because they have been grouped by categories.
+
+Risks Related to Our Ability to Grow Our Business
+
+We may be unsuccessful at innovating in response to rapid technological or industry changes to meet customer needs, which
+could cause our business and financial results to suffer materially.
+
+We operate in rapidly evolving industries and expect the pace of innovation to continue to accelerate. We must
+continually introduce new and enhance existing solutions to retain customers and attract new customers. Developing new
+solutions is complex, requires significant investment and operational costs and may not be profitable, and our investments in
+new technologies are speculative and may not yield the expected business or financial benefits. The commercial success of new
+or enhanced solutions depends on a number of factors, including timely and successful development; effective distribution and
+marketing; market acceptance; compatibility with existing and emerging standards, platforms, software delivery methods and
+technologies; accurately predicting and anticipating customer needs and expectations and the direction of technological change;
+identifying and innovating in the right technologies; and differentiation from other solutions. If we fail to anticipate or identify
+technological, creative, productivity or marketing trends or fail to devote appropriate resources to adapt to such trends, our
+business could be harmed. For example, artificial intelligence (“AI”), including generative and agentic, enables users of all skill
+levels to create and provide new ways of marketing, creating and editing content and interacting with documents. While we
+continue to release new AI solutions and to focus on enhancing the AI capabilities of our solutions and incorporating AI across
+existing solutions, there can be no assurance that our new or enhanced solutions and AI innovations will be successful, adopted
+or monetizable or that we will innovate effectively to keep pace with the rapid evolution of AI across our solutions. If we do not
+successfully innovate, adapt to rapid technological or industry changes and meet customer needs, our business and our financial
+results may be materially harmed.
+
+We participate in rapidly evolving and intensely competitive markets, and, if we do not compete effectively, our business and
+financial results could materially suffer.
+
+The markets for our solutions are rapidly evolving and intensely competitive. We expect competition to continue to
+intensify. Our numerous competitors include companies of various sizes and both public and private companies, including
+large, global companies and smaller companies with more specialized focuses, new entrants, and AI or cloud-native companies.
+Our competitors include companies with significant sales and research and development resources, broad brand awareness, long
+operating histories or access to large customer bases. Our competitors may deploy technical, marketing and financial resources
+more easily and effectively. Our competitors may develop or acquire additional products, services or solutions that are similar
+to ours or that achieve greater or faster acceptance. Our competitors may undertake faster and more far-reaching and successful
+development efforts or marketing campaigns, may adopt more aggressive pricing policies or may more effectively appeal to
+customers. As a result, current and potential customers may select the products, services or solutions of our competitors. New
+industry standards, evolving distribution and sales models, limited barriers to entry, short product life cycles, customer price
+sensitivity, global economic conditions and the frequent entry of new solutions or competitors may increase downward pressure
+on pricing and gross margins and adversely affect our renewal, upsell and cross-sell rates as well as our ability to attract new
+customers. In addition, we expect to face more competition as AI continues to advance and be integrated into the markets in
+which we compete and to change the software industry. Our competitors or other third parties may develop AI solutions more
+rapidly or successfully, including but not limited to different data training strategies or proprietary access to data and, as a
+result, other AI solutions may achieve greater and faster adoption. For example, we face increasing competition from
+companies offering generative and agentic AI solutions, including but not limited to prompt-based and multi-modal creation
+and editing, document productivity and understanding, ad distribution and creation, and purpose-built AI agents. Other
+companies have in the past, and may in the future prevent, limit or interfere with our ability to use third-party models in our
+solutions. If we are not able to provide solutions that compete effectively, we could experience reduced sales, which could
+materially and adversely impact our business and financial results. For additional information regarding our competition and
+the risks arising out of the competitive environment in which we operate, see the section titled “Competition” contained in Part
+L, Item 1 of this report.
+
+17

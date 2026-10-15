@@ -1,0 +1,59 @@
+Table of Contents
+
+¢ tax laws in the United States as well as other countries and jurisdictions;
+* increased financial accounting and reporting burdens and complexities;
+
+¢ changes in, or impositions of, legislative or regulatory requirements in the United States and other countries,
+including antitrust and competition regulations, consumer protection laws, or other government actions;
+
+¢ changes in laws governing the flow of data across borders including into the United States;
+¢ inadequate local infrastructure and difficulties in managing and staffing international operations;
+
+* costs, potential liability, delays or loss of sales resulting from trade restrictions imposed by the United States and
+other countries, as well as trade laws, including but not limited to economic sanctions, tariffs and export controls;
+
+* — costs and delays associated with developing products in multiple languages; and
+* operating in locations with a higher rate of corruption and fraudulent business practices.
+
+Additionally, third parties we do business with and our customers have international operations and are also subject to
+the above risks. Adverse changes in global economic conditions, including, but not limited to recessions or slow economic
+growth have in the past resulted and may in the future result in our customers’ and business partners’ insolvency, inability to
+obtain credit to finance or purchase our solutions, or a delay in paying or an inability to pay their obligations to us. Other third
+parties, such as our service providers, suppliers and distributors, may be unable to deliver or be delayed in delivering critical
+services, products or technologies that we rely on, and our business and reputation may be harmed. Our customers’ spending
+rate, ability to pay and demand for our solutions may also be adversely affected by the above risks. If our global sales are
+reduced, delayed or canceled because of any of the above risks, our revenue may decline.
+
+Further, a disruption in global financial markets could impair our banking partners, on which we rely for operating cash
+management, capital market transactions and derivative programs. Such disruption could also negatively impact our customers’
+ability to pay us due to delays or inability to access their existing cash.
+
+As of November 28, 2025, our investment portfolio consisted of money market funds, corporate debt securities, U.S.
+Treasury securities, time deposits and other investments. These investments are subject to credit, liquidity, market, and interest
+rate risks as well as economic downturns or events that affect global or regional financial markets that may cause the value of
+our investments to decline, requiring impairment charges, which could adversely affect our financial condition.
+
+Some of our enterprise solutions have extended and complex sales cycles, which may increase our costs and make our sales
+cycles unpredictable.
+
+As we continue to target enterprise customers for certain of our solutions, we may face increased costs, longer sales
+cycles, greater competition and less predictability in completing our sales. For our enterprise customers, the evaluation process
+may be longer and more involved, and require us to invest more in educating our customers about our solutions, particularly
+because the decision to use our solutions is often an enterprise-wide decision. We are increasingly offering end-to-end solutions
+that include generative and agentic AI capabilities, which have in the past, and may in the future, increase the complexity of
+technical or contractual assurances or requirements that we or our customers require, whether pursuant to regulations or internal
+policies, as part of the contracting process, leading to extended sales cycles. We may be required to submit more robust
+proposals, participate in extended proof-of-concept evaluation cycles and engage in more extensive contract negotiations. In
+addition, our enterprise customers often demand more complex configurations and additional integration services and product
+features. Adverse macroeconomic and geopolitical events such as trade disputes and tariffs have caused, and may continue to
+cause, additional spend scrutiny and delays in our enterprise customers’ purchasing decisions, particularly for larger and more
+complex deals. Due to these factors, we often must devote greater sales support to certain enterprise customers, which increases
+our costs and time required to complete a sale, without assurance that potential customers will ultimately purchase our
+solutions. We also may be required to devote more services resources to implementation, which increases our costs, without
+assurance that customers receiving these services will renew or renew at the same level. Our revenue from enterprise customers
+may be affected by longer-than-expected sales, contract negotiation and implementation cycles, extended collection cycles,
+potential deferral of revenue and alternative licensing arrangements. Additionally, our enterprise sales pattern has historically
+been, and is expected to remain, uneven, where a higher percentage of a quarter’s total sales occur during the final weeks of
+each quarter, which is common in our industry.
+
+23

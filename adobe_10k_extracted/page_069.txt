@@ -1,0 +1,43 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE 7. LEASES
+
+We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various
+dates through 2038. We also have one land lease that expires in 2091. Our lease agreements do not contain any material
+residual value guarantees, material variable payment provisions or material restrictive covenants.
+
+Operating lease expense was $92 million, $106 million and $117 million for fiscal 2025, 2024 and 2023, respectively.
+Our operating lease expense includes variable lease costs and is net of sublease income, both of which are not material.
+
+During fiscal 2024, we recognized impairment charges of $78 million associated with the optimization of our leased
+facilities, primarily for operating lease right-of-use assets and leasehold improvements, which were recorded as general and
+administrative expenses. There was no impairment recognized in the other periods presented.
+
+Supplemental cash flow information for fiscal 2025, 2024 and 2023 related to operating leases was as follows:
+
+(in millions) 2025 2024 2023
+Cash paid for amounts included in the measurement of operating lease liabilities $ 95 §$ 85 $ 97
+Right-of-use assets obtained in exchange for operating lease liabilities $ 86 $ 62 $ 32
+
+The weighted-average remaining lease term and weighted-average discount rate for our operating lease liabilities as of
+November 28, 2025 were 6 years and 3.30%, respectively.
+
+As of November 28, 2025, the maturities of lease liabilities under operating leases were as follows:
+
+(in millions)
+Fiscal Year Operating Leases
+2026 $ 89
+2027 98
+2028 83
+2029 65
+2030 57
+Thereafter 93
+Total lease liabilities $ 485
+Less: Imputed interest (47)
+Present value of lease liabilities $ 438
+
+69

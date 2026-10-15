@@ -1,0 +1,63 @@
+Table of Contents
+
+growth drivers among our customer groups. This includes expanding relationships and engagement with existing customers,
+driving new customer adoption, delivering value-driven and innovative solutions in new categories across desktop, web and
+mobile, and increasing our geographic reach. We continue to scale our digital and enterprise routes to market as well as our
+extensive partner ecosystem to expand our addressable market and deliver on our strategy.
+
+Business Professionals & Consumers
+
+Creativity and productivity are merging and changing how everyone communicates digitally. Business professionals and
+consumers seek intuitive, all-in-one solutions that seamlessly integrate creativity and productivity across web and mobile. They
+require tools to digest and gain insights from vast amounts of information and data. They value ease of use, enabled by
+freemium models that provide accessible entry points to powerful tools that span document consumption and content creation.
+Al-powered features and conversational interfaces are increasingly replacing traditional templates, offering dynamic and
+personalized workflows that enhance efficiency.
+
+For Business Professionals & Consumers, we are democratizing productivity and creativity with Al-driven, quick and
+easy applications (“apps”) that enable users to be creative and productive whether consuming or generating content across
+multiple media types and channels. With Acrobat Studio, which brings together Adobe Acrobat and Express to deliver more
+product value, we are evolving Acrobat from a leading document productivity app to an integrated destination for people to get
+insights faster, create standout content and collaborate more seamlessly. Our Acrobat solutions, from our freemium Acrobat
+Reader to Acrobat AI Assistant to our Al-powered productivity and creativity destination, Acrobat Studio, facilitate frictionless
+onboarding and scaled reach in serving the billions of potential users in this customer group.
+
+Creative & Marketing Professionals
+
+Creators and creative professionals need Al-driven solutions that provide power and precision from ideation and creation
+to production and delivery. They want a powerful destination for creative expression and access to leading AI models. They
+require seamless collaboration capabilities, powerful ideation tools, conversational and agentic AI solutions and flexible access
+to web, mobile, and desktop applications to meet the growing demand for high-quality, personalized content in a fast-paced
+digital economy.
+
+As AI fundamentally transforms content production, distribution and monetization, our solutions accelerate creative
+expression for creators and creative professionals and enable anyone to create by using the AI functionality infused in our
+flagship creative applications as well as our AI-first solutions. We offer an end-to-end, ideation-to-creation platform powered
+by our commercially safe Firefly models and an expansive partner model ecosystem, offering customers choice and flexibility
+without the friction of switching between workflows and platforms.
+
+Marketing professionals require AI-driven solutions that enable them to create, manage and optimize personalized digital
+experiences at scale and to enhance brand visibility across the content supply chain. They need agility, self-service capabilities,
+and integrated workflows to collaborate effectively with creative teams and agencies and meet the increasing demand for
+compelling content.
+
+For marketing professionals, we unify creative production and marketing execution with comprehensive content supply
+chain solutions that deliver end-to-end customer experience orchestration solutions, automate workflows and personalize
+experiences and engagement at scale across channels. Centered around Adobe Experience Platform and apps and Adobe
+GenStudio, our offerings streamline the content supply chain and deliver agile, self-service capabilities and integrated
+workflows to collaborate effectively and efficiently produce high volumes of on-brand, personalized content to strengthen
+brand visibility. Our competitive differentiation comes from the increased value we provide customers by integrating the Adobe
+Experience Platform with our comprehensive set of solutions and embedding AI into our portfolio of solutions, such as Adobe
+Experience Platform AI Assistant. Adobe Experience Platform is a customer data platform that serves as a foundation in
+enterprises for digital customer engagement and brings together Al-powered apps and agents to efficiently drive engagement
+and loyalty. Through Al-powered features and AI agents, our solutions enable businesses to provide real-time orchestration of
+customer journeys and help marketers deliver impactful, data-driven campaigns while optimizing return on investment. Our
+innovations empower our customers to use their first-party customer data and deliver more relevant, high-impact advertising
+experiences rooted in direct consumer and business relationships.
+
+Creative and marketing professionals have increasingly interconnected objectives and workflows in the content lifecycle.
+Creative professionals produce high-quality content, while marketing professionals leverage this content to deliver
+personalized, data-driven digital experiences at scale. Adobe’s integrated solutions, such as GenStudio and Firefly Services,
+bridge the gap between content creation and marketing execution, enabling seamless collaboration and efficiency across these
+roles. This unified approach reflects Adobe’s strategy to address the entire content lifecycle—from ideation to activation—
+ensuring alignment, scalability, and value for both creative and marketing functions.

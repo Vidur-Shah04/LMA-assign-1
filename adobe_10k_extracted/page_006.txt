@@ -1,0 +1,60 @@
+Table of Contents
+
+Our solutions for business professionals and consumers face broad competition from productivity tools and consumer-
+focused creative tools including general productivity platforms and apps, web- and mobile-first design platforms, an array of
+easy-to-use desktop, web and mobile content creation apps, Al-first creativity and productivity tools, presentation tools, and
+social media platforms that offer built-in media editing capabilities.
+
+Our solutions for creators and creative professionals face broad competition from both established and emerging players
+including professional tools and suites for imaging, video, design, 3D, and other creative tasks, purpose-built mobile apps, AI-
+first creative tools, as well as creative tools integrated into broader desktop, web, and mobile applications.
+
+Our solutions for marketing professionals face broad competition from large, established enterprise software and cloud
+companies, point solutions from smaller, specialized companies, new companies constantly entering the digital experience
+space as well as business’ internally developed apps. Key competitive factors in this environment include proven performance,
+security, scalability, flexibility, and reliability of the platform; breadth of functionality & strategic integrations with third
+parties; cost-effective benefits; enterprise-level service & training; and ability to integrate across business workflows.
+
+Adobe continues to build on its strong foundation of research and development, transformative innovation, category and
+brand leadership and world-class financial discipline. We deliver Adobe magic to an expanding set of global customers and are
+executing on the opportunity ahead. We are a trusted partner to companies of all sizes who look to our integrated ecosystems
+and connected workflows across creativity, productivity, and marketing to stand out and grow their brands.
+
+See the section titled “Risk Factors” contained in Part I, Item 1A of this report for additional information regarding risks
+related to competition.
+
+PRINCIPAL SOLUTIONS
+Business Professionals & Consumers
+Acrobat Solutions
+
+Acrobat is our family of productivity solutions that allows users to consume, edit, sign, and create documents across
+platforms and surfaces, and better understand the information within them. Our Adobe Acrobat solutions are available on
+desktop, mobile, and the web with Acrobat Studio, Acrobat Pro, Acrobat Standard tiered plans, and for free with Adobe
+Acrobat Reader. Acrobat AI Assistant, our generative Al-powered conversational engine, gives users the power to work more
+productively with their PDFs by summarizing and answering questions about documents, providing intelligent citations and
+quickly generating and formatting content for sharing. Acrobat AI Assistant is available in Acrobat Studio and offered as an
+add-on to Acrobat Pro, Acrobat Standard and Acrobat Reader.
+
+Acrobat Studio
+
+Acrobat Studio is an all-in-one platform for productivity and creation that unites Adobe Acrobat, Adobe Express and AI
+agents to enable people to quickly, easily and intuitively work. Users can gain insights with specialized AI assistants, create
+interactive workspaces with PDF Spaces, and transform content using Adobe Express—all in one place. Acrobat Studio
+integrates Acrobat’s AI capabilities with its PDF features. PDF Spaces turns collections of files and websites into sharable,
+conversational knowledge hubs with personalized AI Assistants, transforming PDFs from static files into a dynamic
+environment for uncovering insights, generating ideas, surfacing recommendations, and synthesizing information. Adobe
+Express creation capabilities, trusted PDF tools and agentic AI make it easy to create, edit and share documents and visual
+content in the same place.
+
+Adobe Acrobat
+
+Adobe Acrobat is our comprehensive PDF solution with a full set of tools to convert, edit, share and sign PDFs across
+various surfaces and platforms. Acrobat enables automated, collaborative workflows with a rich set of commenting, editing and
+sharing tools and direct integration with Adobe Acrobat Sign. With the Acrobat Standard plan, subscribers can convert, edit,
+request signatures, and protect PDFs. The Acrobat Pro plan offers additional advanced PDF features.
+
+Adobe Acrobat Reader
+
+Adobe Acrobat Reader, our free software for reliable viewing, annotating and printing of PDF documents on a variety of
+surfaces and platforms, offers features to create, edit, export, combine, share and collaborate on PDF documents, including the
+“Liquid Mode” feature that automatically reformats PDFs for quick navigation and consumption on mobile devices.

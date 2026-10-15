@@ -1,0 +1,51 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Cash, cash equivalents and short-term investments consisted of the following as of November 29, 2024:
+
+Amortized Unrealized Unrealized Estimated
+(in millions) Cost Gains Losses Fair Value
+
+Current assets:
+Cash $ 787 $ — §$ — §$ 787
+
+Cash equivalents:
+
+Corporate debt securities 41 — — 41
+Money market funds 6,726 — — 6,726
+Time deposits 57 — = 57
+U.S. Treasury securities 2 — — 2
+Total cash equivalents 6,826 — — 6,826
+Total cash and cash equivalents 7,613 — — 7,613
+Short-term fixed income securities:
+Asset-backed securities 4 — — 4
+Corporate debt securities 120 — — 120
+U.S. agency securities 11 — — 11
+US. Treasury securities 139 — (1) 138
+Total short-term investments 274 — (1) 273
+Total cash, cash equivalents and short-term investments $ 7,887 $ — $ (1) $ 7,886
+
+See Note 4 for further information regarding the fair value of our financial instruments.
+
+The following table summarizes the estimated fair value of short-term fixed income debt securities classified as short-
+term investments based on stated effective maturities as of November 28, 2025:
+
+Estimated
+
+(in millions) Fair Value
+Due within one year $ 1,063
+Due between one and two years 101
+Total $ 1,164
+
+We review our debt securities classified as short-term investments on a regular basis for impairment. For debt securities
+in unrealized loss positions, we determine whether any portion of the decline in fair value below the amortized cost basis is due
+to credit-related factors if we neither intend to sell nor anticipate that it is more likely than not that we will be required to sell
+prior to recovery of the amortized cost basis. We consider factors such as the extent to which the market value has been less
+than the cost, any noted failure of the issuer to make scheduled payments, changes to the rating of the security and other
+relevant credit-related factors in determining whether or not a credit loss exists. During fiscal 2025 and 2024, we did not
+recognize an allowance for credit-related losses on any of our investments.
+
+63

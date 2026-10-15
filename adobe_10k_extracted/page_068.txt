@@ -1,0 +1,60 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+The effects of derivative instruments on our Consolidated Statements of Income for fiscal 2025, 2024 and 2023 were as
+follows:
+
+(in millions) Financial Statement Classification 2025 2024 2023
+Derivatives in cash flow hedging relationships:
+Foreign exchange contracts
+Net gain (loss) reclassified from
+
+accumulated OCI into income Revenue $ 2 $ (20) $ 41
+
+Net gain (loss) reclassified from
+
+accumulated OCI into income Operating expenses $ (8) $ 4 $ (2)
+Treasury lock
+
+Net gain (loss) reclassified from
+
+accumulated OCI into income Interest expense $ (3) $ (5) $ (5)
+
+Derivatives not designated as hedging relationships:
+Foreign exchange contracts Other income (expense), net $ 9 §$ 3 $ 12
+
+NOTE 6. PROPERTY AND EQUIPMENT
+
+Property and equipment, net, consisted of the following as of November 28, 2025 and November 29, 2024:
+
+(in millions) 2025 2024
+Computers and other equipment $ 1,346 $ 1,405
+Buildings 1,060 1,067
+Building improvements 586 561
+Leasehold improvements 250 222
+Land 161 163
+Furniture and fixtures 161 146
+Capital projects in-progress 37 27
+Total 3,601 3,591
+Less: Accumulated depreciation and amortization (1,728) (1,655)
+Property and equipment, net $ 1,873 $ 1,936
+
+Depreciation and amortization expense of property and equipment for fiscal 2025, 2024 and 2023 was $236 million,
+$239 million and $235 million, respectively.
+
+Property and equipment, net, by geographic area as of November 28, 2025 and November 29, 2024 was as follows:
+
+(in millions) 2025 2024
+Americas:
+
+United States $ 1,591 §$ 1,651
+Other 1 1
+Total Americas 1,592 1,652
+EMEA 101 86
+APAC 180 198
+Property and equipment, net $ 1,873 $ 1,936
+
+68

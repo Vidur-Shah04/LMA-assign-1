@@ -1,0 +1,60 @@
+Table of Contents
+
+partners and developers to receive desktop product upgrades and enhancements or technical support, depending on the offering,
+are generally recognized ratably over the term of the arrangement. Transaction-based advertising revenue is recognized on a
+usage basis as we satisfy the performance obligations to our customers.
+
+Segments
+In fiscal 2025, we categorized our products into the following reportable segments:
+
+¢ Digital Media—Our Digital Media segment provides products and services that enable individuals, teams,
+businesses, and enterprises to create, publish and promote their content anywhere and accelerate their productivity
+by transforming how they view, share, engage with and collaborate on documents and creative content. Our
+customers span creative professionals, including graphic designers, photographers, videographers, illustrators and
+3D artists; creators, including social media influencers and solopreneurs; business professionals, including social
+media teams, small business owners and knowledge workers; and consumers.
+
+¢ Digital Experience—Our Digital Experience segment provides marketing professionals with an integrated platform
+and set of products, services and solutions that enable businesses to create, manage, execute, measure, monetize and
+optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers,
+brand managers, campaign strategists, merchandisers, merchants, data analysts, developers and executives across the
+C-suite.
+
+¢ Publishing and Advertising—Our Publishing and Advertising segment contains legacy products and services that
+address diverse market opportunities, including eLearning solutions, technical document publishing, web
+conferencing, document and forms platform, web app development, high-end printing and our Adobe Advertising
+offerings.
+
+Segment Information
+
+Total revenue by reportable segment for fiscal 2025, 2024 and 2023 were as follows:
+
+% Change
+(dollars in millions) 2025 2024 2023 2025-2024
+Digital Media $ 17,649 $ 15,864 $ 14,216 11%
+Percentage of total revenue 74 % 74% 73 %
+Digital Experience 5,864 5,366 4,893 9%
+Percentage of total revenue 25 % 25 % 25 %
+Publishing and Advertising 256 275 300 (7)%
+Percentage of total revenue 1% 1% 2%
+Total revenue $ 23,769 $ 21,505 $ 19,409 11%
+
+Revenue from Digital Media increased $1.79 billion and revenue from Digital Experience increased $498 million during
+fiscal 2025 as compared to fiscal 2024. The increases in total revenue were due to subscription revenue growth across our
+Digital Media and Digital Experience offerings.
+
+Subscription revenue by reportable segment for fiscal 2025, 2024 and 2023 were as follows:
+
+% Change
+
+(dollars in millions) 2025 2024 2023 2025-2024
+Digital Media $ 17,389 $ 15,547 $ 13,838 12%
+Digital Experience 5,409 4,864 4,331 11%
+Publishing and Advertising 106 110 115 (4)%
+Total subscription revenue $ 22,904 $ 20,521 $ 18,284 12 %
+
+The increase in subscription revenue for the Digital Media segment was driven by strength in Creative Cloud Pro and
+other flagship apps as well as Acrobat across all routes to market and geographies. The increase in subscription revenue for the
+Digital Experience segment was driven by strength in GenStudio solutions, and Adobe Experience Platform and related apps.
+
+36

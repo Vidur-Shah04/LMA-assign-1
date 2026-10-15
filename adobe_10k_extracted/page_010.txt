@@ -1,0 +1,64 @@
+Table of Contents
+
+shopping cart to shoppable experiences, with actionable data analysis and automated back-end workflows, native integrations
+with other Adobe solutions, and the capability to be scalable and extensible.
+
+Adobe Journey Optimizer
+
+Adobe Journey Optimizer is a scalable app built on Adobe Experience Platform that allows businesses to orchestrate and
+deliver personalized, connected customer journeys across any app, surface, screen, or channel across B2B and B2C. With this
+solution, brands can manage inbound customer engagement with outbound omnichannel campaigns and offer personalized
+content based on real-time profiles, data-driven insights, cloud-native scalability and API extensibility, all within a single app,
+and, for our B2B customers, build buying groups aligned to their organization’s product portfolio.
+
+Adobe Marketo Engage
+
+Adobe Marketo Engage is a customer experience management solution optimized for B2B, cross-channel campaigns by
+bringing together planning, engagement and measurement capabilities into an integrated marketing platform. Capabilities
+include lead nurturing and management; predictive account profiling for creating account-based experiences; integrated sales
+app; and integrations with third-party marketing apps and Adobe Experience Cloud.
+
+Adobe Workfront
+
+Adobe Workfront provides a unified work management app to enable teams to work more efficiently, with tools to
+strategize, plan, execute, review and deliver complex workflows. Adobe Workfront Planning, offered within Adobe Workfront,
+streamlines enterprise planning by delivering a comprehensive view of all marketing activities in an organization and enabling
+teams to be more strategic in planning and execution with full visibility into day-to-day marketing operations.
+
+SEGMENTS
+
+In fiscal 2025, our business consisted of three reportable segments: Digital Media, Digital Experience and Publishing and
+Advertising. Spanning both our Digital Media and Digital Experience segments, we drove business success through customer-
+focused innovation and go-to-market strategies.
+
+Digital Media. To serve the productivity and creativity needs of business professionals, consumers, creators and creative
+professionals, our Digital Media solutions include our Adobe Acrobat solutions, Adobe Express and our Creative Cloud
+subscriptions and flagship apps, such as Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe Premiere Pro and
+Adobe After Effects, as well as Adobe Firefly.
+
+Digital Experience. To serve the end-to-end content supply chain needs of marketing professionals, our Digital
+Experience solutions include Adobe Experience Platform and native applications, including Real-Time Customer Data
+Platform, Customer Journey Analytics, Adobe Experience Manager Sites, Adobe Commerce, Adobe Journey Optimizer, Adobe
+Marketo Engage and solutions within Adobe GenStudio, such as Workfront, Adobe Experience Manager Assets and GenStudio
+for Performance Marketing.
+
+Publishing and Advertising. Our Publishing and Advertising offerings contain legacy solutions including eLearning
+solutions, technical document publishing, web conferencing, document and forms platform, web App development, high-end
+printing through Adobe PostScript and Adobe PDF standards and our Adobe Advertising offerings.
+
+Effective in the first quarter of fiscal 2026, we will combine our prior segments—Digital Media, Digital Experience and
+Publishing and Advertising—into a single operating and reportable segment due to changes in how management intends to
+evaluate results, allocate resources and execute the strategic opportunities outlined above. Accordingly, we will reflect this
+segment change in our Quarterly Report on Form 10-Q for the first quarter of fiscal 2026.
+
+OPERATIONS
+Marketing and Sales
+
+We market our solutions directly to enterprise customers through our sales force and local field offices and directly to
+businesses and consumers. We license our products to end-user customers through app stores and our own website at
+adobe.com. We offer many of our products via a SaaS model or a managed services model (both of which are referred to as
+hosted or cloud-based) as well as through term subscription and pay-per-use models. Our Creative Cloud and Firefly
+subscriptions include a monthly plan-specific number of generative credits for generative AI tools, and our free plans include a
+limited number of generative credits. We market and distribute our products through sales channels, which include distributors,
+
+10

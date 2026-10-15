@@ -1,0 +1,45 @@
+Table of Contents
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate
+because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial
+statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or
+disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or
+complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate
+opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Sufficiency of audit evidence over revenue related to software subscriptions sold at the Company’s online store
+
+As discussed in Note 2 to the consolidated financial statements, the Company recorded subscription revenue of $17.39
+billion in its Digital Media segment, a portion of which related to software subscriptions sold at adobe.com, the
+Company’s online store. Processing these orders is reliant upon information technology (IT) systems to record
+revenue.
+
+We identified the evaluation of sufficiency of audit evidence over revenue related to software subscriptions sold at the
+Company’s online store as a critical audit matter. The matter required a high degree of subjective auditor judgment due
+to the number of revenue-related IT systems involved. Specifically, judgment was required to evaluate that revenue
+data was captured and aggregated throughout various IT systems. Additionally, IT professionals with specialized skills
+and knowledge were required to evaluate the nature and extent of evidence obtained over this revenue.
+
+The following are the primary procedures we performed to address this critical audit matter. We applied auditor
+judgment to determine the nature and extent of procedures to be performed over this revenue. We evaluated the design
+and tested the operating effectiveness of certain internal controls related to this revenue process, including controls
+related to IT. We involved IT professionals with specialized skills and knowledge, who assisted in identifying and
+testing key IT configuration and IT interface controls for the various systems processing and recording these revenue
+transactions. For a sample of transactions, we assessed the recorded revenue by comparing it with the relevant
+underlying documentation, including payment received, and delivery confirmation. We evaluated the sufficiency of
+audit evidence obtained over this revenue by assessing the results of procedures performed.
+
+/s/ KPMG LLP
+
+We have served as the Company’s auditor since 1983.
+
+Santa Clara, California
+January 15, 2026
+
+86

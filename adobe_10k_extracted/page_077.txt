@@ -1,0 +1,56 @@
+Table of Contents
+
+ADOBE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Compensation costs for our performance share awards which are contingent upon achievement of relative total
+stockholder return are recognized, net of estimated forfeitures, on a straight-line basis over the requisite performance period or
+service period of the entire award, whichever is longer. Compensation costs for our performance share awards which are
+contingent upon achievement of revenue-based financial metrics are recognized, net of estimated forfeitures, based upon the
+expected levels of achievement, which are assessed periodically until certification by the ECC.
+
+We estimate forfeitures at the time of grant and revise those estimates in subsequent periods if actual forfeitures differ
+from those estimates. We use historical data to estimate forfeitures and record stock-based compensation expense only for those
+awards that are expected to vest.
+
+As of November 28, 2025, there was $3.24 billion of unrecognized compensation cost, adjusted for estimated forfeitures,
+related to unvested stock-based awards and purchase rights which will be recognized over a weighted average period of 2.19
+years. Total unrecognized compensation cost will be adjusted for future changes in estimated forfeitures.
+
+Total stock-based compensation costs included in our Consolidated Statements of Income for fiscal 2025, 2024 and 2023
+were as follows:
+
+(in millions) 2025 2024 2023
+Cost of revenue $ 122 $ 117 $ 115
+Research and development 1,010 932 874
+Sales and marketing 557 535 495
+General and administrative 253 249 234
+Total $ 1,942 $ 1,833 $ 1,718
+
+© During fiscal 2025, 2024 and 2023, we recorded tax benefits related to stock-based compensation costs of $262 million,
+$372 million and $299 million, respectively.
+
+NOTE 13. ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+
+The components of accumulated other comprehensive income (loss) and activity, net of related taxes, for fiscal 2025
+were as follows:
+
+November 29, Increase / Reclassification November 28,
+(in millions) 2024 Decrease Adjustments 2025
+Net unrealized gains / losses on available-for-sale securities $ (1) $ 1 $ = $ =
+Net unrealized gains / losses on derivative instruments (1)
+designated as hedging instruments 80 (132) 7 (45)
+Cumulative foreign currency translation adjustments (280) 80 — (200)
+
+Total accumulated other comprehensive income (loss), net of
+
+taxes $ (201) $ (51) $ 7 $ (245)
+
+© Reclassification adjustments for gains / losses on foreign currency hedges are classified in revenue or operating expenses,
+depending on the nature of the underlying transaction, and reclassification adjustments for gains / losses on Treasury lock
+hedges are classified in interest expense.
+
+Taxes related to each component of other comprehensive income (loss) were immaterial for the fiscal years presented.
+
+77
