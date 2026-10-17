@@ -1,0 +1,13 @@
+query_id,query,pipeline,context_chunk_ids,context_pages,answer,generation_ms
+1,How does Adobe incorporate generative AI into its products and services?,bi_encoder_top3,"[10, 19, 8]","[5, 8, 4]",,43223.27209700007
+1,How does Adobe incorporate generative AI into its products and services?,cross_encoder_reranked_top3,"[10, 8, 18]","[5, 4, 8]",,42924.207293999985
+2,"What cybersecurity risks does Adobe disclose, and how does the company manage them?",bi_encoder_top3,"[79, 81, 80]","[29, 29, 29]",,42523.159217999935
+2,"What cybersecurity risks does Adobe disclose, and how does the company manage them?",cross_encoder_reranked_top3,"[79, 80, 3]","[29, 29, 2]",,42587.30308400004
+3,What were Adobe's Digital Media and Digital Experience subscription revenues in fiscal 2025 compared with fiscal 2024?,bi_encoder_top3,"[89, 95, 87]","[33, 36, 33]",,42396.233194000044
+3,What were Adobe's Digital Media and Digital Experience subscription revenues in fiscal 2025 compared with fiscal 2024?,cross_encoder_reranked_top3,"[89, 92, 96]","[33, 35, 37]",,43038.82274900002
+4,"What major factors could adversely affect Adobe's business, financial condition, or results of operations?",bi_encoder_top3,"[125, 197, 40]","[52, 88, 17]",,42704.79032900005
+4,"What major factors could adversely affect Adobe's business, financial condition, or results of operations?",cross_encoder_reranked_top3,"[182, 3, 40]","[81, 2, 17]",,42571.56183200004
+5,What changes does Adobe report in its financial performance for fiscal 2025?,bi_encoder_top3,"[92, 143, 87]","[35, 59, 33]",,42947.724276000146
+5,What changes does Adobe report in its financial performance for fiscal 2025?,cross_encoder_reranked_top3,"[92, 87, 159]","[35, 33, 68]",,42834.81815699997
+6,What legal proceedings and intellectual property risks does Adobe disclose?,bi_encoder_top3,"[184, 183, 182]","[81, 81, 81]",,42921.02800499993
+6,What legal proceedings and intellectual property risks does Adobe disclose?,cross_encoder_reranked_top3,"[3, 27, 32]","[2, 12, 14]",,42670.38242900003
