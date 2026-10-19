@@ -1,7 +1,0 @@
-query_id,query,candidates_scored,average_dense_rank,average_reranked_rank,candidates_moved_up,candidates_moved_down,max_upward_shift
-1,How does Adobe incorporate generative AI into its products and services?,10,5.5,5.5,5,4,5
-2,"What cybersecurity risks does Adobe disclose, and how does the company manage them?",10,5.5,5.5,4,3,3
-3,What were Adobe's Digital Media and Digital Experience subscription revenues in fiscal 2025 compared with fiscal 2024?,10,5.5,5.5,5,4,3
-4,"What major factors could adversely affect Adobe's business, financial condition, or results of operations?",10,5.5,5.5,4,3,6
-5,What changes does Adobe report in its financial performance for fiscal 2025?,10,5.5,5.5,4,4,4
-6,What legal proceedings and intellectual property risks does Adobe disclose?,10,5.5,5.5,5,5,7

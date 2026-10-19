@@ -1,0 +1,11 @@
+query_id,query_type,query,dense_retrieval_ms,cross_encoder_rerank_ms
+1,broad coverage,"How does Adobe incorporate generative AI into its products and services, and what related risks does it disclose?",33.96152499999516,407.5649000000112
+2,stress-test candidate,"What cybersecurity risks does Adobe disclose, and how does the company manage cybersecurity through oversight, assessment, and response practices?",14.812490999986494,263.01963800000294
+3,numeric disclosure,What were Adobe's Digital Media and Digital Experience subscription revenues in fiscal 2025 compared with fiscal 2024?,15.128914000001714,262.1316839999963
+4,broad coverage,"What major factors could adversely affect Adobe's business, financial condition, or results of operations?",13.295950000042467,267.17109599997
+5,broad coverage,What changes does Adobe report in its financial performance for fiscal 2025?,14.393548999976247,262.76272700005165
+6,stress-test candidate,"What legal proceedings does Adobe disclose, including the status of securities class actions and related derivative actions?",14.635252000005039,276.28953800001455
+7,stress-test candidate,What qualifications or limitations apply to Adobe's indemnification obligations for third-party intellectual-property infringement claims?,13.532194000049458,264.99214000000393
+8,numeric disclosure,What were subscription revenues from Creative and Marketing Professionals compared with Business Professionals and Consumers in fiscal 2025 and fiscal 2024?,13.196890000017447,263.69996099998616
+9,stress-test candidate,"Which cybersecurity oversight, risk assessment, and incident-response processes does Adobe disclose, apart from general market and financial risks?",14.486417999989953,263.48763700002564
+10,stress-test candidate,"What does Adobe disclose about indemnifying customers or channel partners for third-party intellectual-property claims, including qualifications to the obligation?",15.612277999991875,265.1393240000175

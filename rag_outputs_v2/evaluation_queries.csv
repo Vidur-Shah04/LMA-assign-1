@@ -1,0 +1,11 @@
+query_id,query,query_type,failure_mode_candidate
+1,"How does Adobe incorporate generative AI into its products and services, and what related risks does it disclose?",broad coverage,Terminology / risk-context distractor
+2,"What cybersecurity risks does Adobe disclose, and how does the company manage cybersecurity through oversight, assessment, and response practices?",stress-test candidate,Keyword trap / governance details
+3,What were Adobe's Digital Media and Digital Experience subscription revenues in fiscal 2025 compared with fiscal 2024?,numeric disclosure,Similar segment names / numeric distractor
+4,"What major factors could adversely affect Adobe's business, financial condition, or results of operations?",broad coverage,General risk disclosure
+5,What changes does Adobe report in its financial performance for fiscal 2025?,broad coverage,Financial results / similar figures
+6,"What legal proceedings does Adobe disclose, including the status of securities class actions and related derivative actions?",stress-test candidate,Specific legal detail vs general litigation
+7,What qualifications or limitations apply to Adobe's indemnification obligations for third-party intellectual-property infringement claims?,stress-test candidate,Exception / limitation
+8,What were subscription revenues from Creative and Marketing Professionals compared with Business Professionals and Consumers in fiscal 2025 and fiscal 2024?,numeric disclosure,Similar customer-group labels / numeric distractor
+9,"Which cybersecurity oversight, risk assessment, and incident-response processes does Adobe disclose, apart from general market and financial risks?",stress-test candidate,Keyword trap / distinct terminology
+10,"What does Adobe disclose about indemnifying customers or channel partners for third-party intellectual-property claims, including qualifications to the obligation?",stress-test candidate,Exception / role-specific constraint

@@ -1,0 +1,3 @@
+Source: /kaggle/input/datasets/vidurshah04/adobe-extracted
+Text records/pages loaded: 93
+Chunks: 207

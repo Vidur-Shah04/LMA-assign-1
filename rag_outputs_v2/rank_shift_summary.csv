@@ -1,0 +1,11 @@
+query_id,query_type,failure_mode_candidate,query,candidates_scored,candidates_moved_up,candidates_moved_down,max_upward_shift,promoted_into_top3
+1,broad coverage,Terminology / risk-context distractor,"How does Adobe incorporate generative AI into its products and services, and what related risks does it disclose?",10,5,4,5,1
+2,stress-test candidate,Keyword trap / governance details,"What cybersecurity risks does Adobe disclose, and how does the company manage cybersecurity through oversight, assessment, and response practices?",10,6,4,6,0
+3,numeric disclosure,Similar segment names / numeric distractor,What were Adobe's Digital Media and Digital Experience subscription revenues in fiscal 2025 compared with fiscal 2024?,10,4,4,4,1
+4,broad coverage,General risk disclosure,"What major factors could adversely affect Adobe's business, financial condition, or results of operations?",10,5,3,4,2
+5,broad coverage,Financial results / similar figures,What changes does Adobe report in its financial performance for fiscal 2025?,10,3,6,6,1
+6,stress-test candidate,Specific legal detail vs general litigation,"What legal proceedings does Adobe disclose, including the status of securities class actions and related derivative actions?",10,3,5,5,1
+7,stress-test candidate,Exception / limitation,What qualifications or limitations apply to Adobe's indemnification obligations for third-party intellectual-property infringement claims?,10,4,3,4,1
+8,numeric disclosure,Similar customer-group labels / numeric distractor,What were subscription revenues from Creative and Marketing Professionals compared with Business Professionals and Consumers in fiscal 2025 and fiscal 2024?,10,5,4,5,1
+9,stress-test candidate,Keyword trap / distinct terminology,"Which cybersecurity oversight, risk assessment, and incident-response processes does Adobe disclose, apart from general market and financial risks?",10,6,3,4,1
+10,stress-test candidate,Exception / role-specific constraint,"What does Adobe disclose about indemnifying customers or channel partners for third-party intellectual-property claims, including qualifications to the obligation?",10,4,4,6,1

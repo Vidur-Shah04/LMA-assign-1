@@ -1,0 +1,2 @@
+component,model,seconds,status,test_answer,load_errors
+generation_model_load_and_self_test,Qwen/Qwen2.5-3B-Instruct,39.743868443999986,ready,"Adobe is a company that provides software solutions including Photoshop, Illustrator, and Acrobat Pro.",
